@@ -1,0 +1,404 @@
+{
+  "mixed": [
+    {
+      "type": "series",
+      "id": 100453
+    },
+    {
+      "type": "movie",
+      "id": 101015
+    },
+    {
+      "type": "series",
+      "id": 100570
+    },
+    {
+      "type": "movie",
+      "id": 101116
+    },
+    {
+      "type": "series",
+      "id": 100465
+    },
+    {
+      "type": "movie",
+      "id": 100704
+    },
+    {
+      "type": "series",
+      "id": 200959
+    },
+    {
+      "type": "movie",
+      "id": 100582
+    },
+    {
+      "type": "series",
+      "id": 100457
+    },
+    {
+      "type": "movie",
+      "id": 101007
+    },
+    {
+      "type": "series",
+      "id": 100600
+    },
+    {
+      "type": "movie",
+      "id": 100811
+    },
+    {
+      "type": "series",
+      "id": 100461
+    },
+    {
+      "type": "movie",
+      "id": 100896
+    },
+    {
+      "type": "series",
+      "id": 101032
+    },
+    {
+      "type": "movie",
+      "id": 101011
+    },
+    {
+      "type": "series",
+      "id": 100762
+    },
+    {
+      "type": "movie",
+      "id": 100700
+    },
+    {
+      "type": "series",
+      "id": 100215
+    },
+    {
+      "type": "movie",
+      "id": 100778
+    },
+    {
+      "type": "series",
+      "id": 200445
+    },
+    {
+      "type": "movie",
+      "id": 100732
+    },
+    {
+      "type": "series",
+      "id": 200837
+    },
+    {
+      "type": "movie",
+      "id": 101003
+    },
+    {
+      "type": "series",
+      "id": 100979
+    },
+    {
+      "type": "movie",
+      "id": 100755
+    },
+    {
+      "type": "series",
+      "id": 100974
+    },
+    {
+      "type": "movie",
+      "id": 101069
+    },
+    {
+      "type": "series",
+      "id": 101039
+    },
+    {
+      "type": "movie",
+      "id": 100880
+    },
+    {
+      "type": "series",
+      "id": 200585
+    },
+    {
+      "type": "movie",
+      "id": 101070
+    },
+    {
+      "type": "series",
+      "id": 201257
+    },
+    {
+      "type": "movie",
+      "id": 100798
+    },
+    {
+      "type": "series",
+      "id": 200679
+    },
+    {
+      "type": "movie",
+      "id": 101074
+    },
+    {
+      "type": "series",
+      "id": 101035
+    },
+    {
+      "type": "movie",
+      "id": 101096
+    },
+    {
+      "type": "series",
+      "id": 101124
+    },
+    {
+      "type": "movie",
+      "id": 101072
+    },
+    {
+      "type": "series",
+      "id": 200891
+    },
+    {
+      "type": "movie",
+      "id": 101071
+    },
+    {
+      "type": "series",
+      "id": 100321
+    },
+    {
+      "type": "movie",
+      "id": 1148359749
+    },
+    {
+      "type": "series",
+      "id": 200175
+    },
+    {
+      "type": "movie",
+      "id": 100876
+    },
+    {
+      "type": "series",
+      "id": 100056
+    },
+    {
+      "type": "movie",
+      "id": 101073
+    },
+    {
+      "type": "series",
+      "id": 101123
+    },
+    {
+      "type": "movie",
+      "id": 101140
+    },
+    {
+      "type": "series",
+      "id": 100411
+    },
+    {
+      "type": "movie",
+      "id": 101139
+    },
+    {
+      "type": "series",
+      "id": 100578
+    },
+    {
+      "type": "movie",
+      "id": 101067
+    },
+    {
+      "type": "series",
+      "id": 101054
+    },
+    {
+      "type": "movie",
+      "id": 200447
+    },
+    {
+      "type": "series",
+      "id": 201005
+    },
+    {
+      "type": "movie",
+      "id": 101068
+    },
+    {
+      "type": "series",
+      "id": 101033
+    },
+    {
+      "type": "movie",
+      "id": 200397
+    },
+    {
+      "type": "series",
+      "id": 100383
+    },
+    {
+      "type": "movie",
+      "id": 200791
+    },
+    {
+      "type": "series",
+      "id": 101049
+    },
+    {
+      "type": "movie",
+      "id": 200461
+    },
+    {
+      "type": "series",
+      "id": 101117
+    },
+    {
+      "type": "movie",
+      "id": 200260
+    },
+    {
+      "type": "series",
+      "id": 100950
+    },
+    {
+      "type": "movie",
+      "id": 200491
+    },
+    {
+      "type": "series",
+      "id": 201153
+    },
+    {
+      "type": "movie",
+      "id": 100995
+    },
+    {
+      "type": "series",
+      "id": 200897
+    },
+    {
+      "type": "movie",
+      "id": 200439
+    },
+    {
+      "type": "series",
+      "id": 100830
+    },
+    {
+      "type": "movie",
+      "id": 200573
+    },
+    {
+      "type": "series",
+      "id": 101057
+    },
+    {
+      "type": "movie",
+      "id": 200497
+    },
+    {
+      "type": "series",
+      "id": 200238
+    },
+    {
+      "type": "movie",
+      "id": 201043
+    },
+    {
+      "type": "series",
+      "id": 101080
+    },
+    {
+      "type": "movie",
+      "id": 200785
+    },
+    {
+      "type": "series",
+      "id": 100958
+    },
+    {
+      "type": "movie",
+      "id": 200495
+    },
+    {
+      "type": "series",
+      "id": 200289
+    },
+    {
+      "type": "movie",
+      "id": 100991
+    },
+    {
+      "type": "series",
+      "id": 101087
+    },
+    {
+      "type": "movie",
+      "id": 200823
+    },
+    {
+      "type": "series",
+      "id": 101119
+    },
+    {
+      "type": "movie",
+      "id": 200493
+    },
+    {
+      "type": "series",
+      "id": 100415
+    },
+    {
+      "type": "movie",
+      "id": 200735
+    },
+    {
+      "type": "series",
+      "id": 100289
+    },
+    {
+      "type": "movie",
+      "id": 200765
+    },
+    {
+      "type": "series",
+      "id": 101115
+    },
+    {
+      "type": "movie",
+      "id": 201175
+    },
+    {
+      "type": "series",
+      "id": 101111
+    },
+    {
+      "type": "movie",
+      "id": 101133
+    },
+    {
+      "type": "series",
+      "id": 101121
+    },
+    {
+      "type": "movie",
+      "id": 200775
+    },
+    {
+      "type": "series",
+      "id": 100627
+    },
+    {
+      "type": "movie",
+      "id": 100999
+    }
+  ]
+}

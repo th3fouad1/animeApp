@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "المحقق كونان (Shinichi)",
+    "character": "Conan Edogawa",
+    "profile_path": "https://cdn.spacetoongo.com/40e0d689-30bf-48aa-b358-d9c2aaf8fa6f.jpg"
+  },
+  {
+    "id": 2,
+    "name": "دايسكي (Duke Fleed)",
+    "character": "Grendizer Pilot",
+    "profile_path": "https://carateen.tv/assets/img/posters/6_cover.webp"
+  },
+  {
+    "id": 3,
+    "name": "غوكو (Son Goku)",
+    "character": "Super Saiyan",
+    "profile_path": "https://cdn.spacetoongo.com/a4bfbb8e-09e3-4336-b347-ed9a18a77b8e.jpg"
+  },
+  {
+    "id": 4,
+    "name": "كابتن ماجد (Tsubasa)",
+    "character": "Captain Tsubasa",
+    "profile_path": "https://cdn.spacetoongo.com/dd8074b6-3872-43a1-a80e-0bd436c13e28.jpg"
+  },
+  {
+    "id": 5,
+    "name": "أبطال الديجيتال (Digimon)",
+    "character": "Tai & Agumon",
+    "profile_path": "https://cdn.spacetoongo.com/76eafe73-140f-4ac9-b1e2-fee1198fd408.jpg"
+  }
+]
