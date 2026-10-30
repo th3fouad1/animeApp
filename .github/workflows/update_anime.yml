@@ -1,0 +1,44 @@
+name: Auto Update Anime Catalog
+
+on:
+  schedule:
+    # Kay-lanci bo7do kol 12 sa3a (00:00 w 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Bouton bach t-lancih manuellement f ay w9t bghiti
+
+permissions:
+  contents: write
+
+jobs:
+  sync-catalog:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install cryptography
+
+      - name: Run Crawler & Update Files
+        run: |
+          python crawler/crawl_and_export.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add series.json movies.json trending.json actors.json
+          if git diff --staged --quiet; then
+            echo "No changes detected. Skipping commit."
+          else
+            git commit -m "Auto-update anime catalog & trending [skip ci]"
+            git push
+          fi
