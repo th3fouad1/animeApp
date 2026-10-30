@@ -1,32 +1,283 @@
-[
-  {
-    "id": 1,
-    "name": "المحقق كونان (Shinichi)",
-    "character": "Conan Edogawa",
-    "profile_path": "https://cdn.spacetoongo.com/40e0d689-30bf-48aa-b358-d9c2aaf8fa6f.jpg"
-  },
-  {
-    "id": 2,
-    "name": "دايسكي (Duke Fleed)",
-    "character": "Grendizer Pilot",
-    "profile_path": "https://carateen.tv/assets/img/posters/6_cover.webp"
-  },
-  {
-    "id": 3,
-    "name": "غوكو (Son Goku)",
-    "character": "Super Saiyan",
-    "profile_path": "https://cdn.spacetoongo.com/a4bfbb8e-09e3-4336-b347-ed9a18a77b8e.jpg"
-  },
-  {
-    "id": 4,
-    "name": "كابتن ماجد (Tsubasa)",
-    "character": "Captain Tsubasa",
-    "profile_path": "https://cdn.spacetoongo.com/dd8074b6-3872-43a1-a80e-0bd436c13e28.jpg"
-  },
-  {
-    "id": 5,
-    "name": "أبطال الديجيتال (Digimon)",
-    "character": "Tai & Agumon",
-    "profile_path": "https://cdn.spacetoongo.com/76eafe73-140f-4ac9-b1e2-fee1198fd408.jpg"
-  }
-]
+{
+  "actors": [
+    {
+      "id": 1,
+      "name": "كونان إيدوجاوا (Conan)",
+      "photo": "https://cdn.spacetoongo.com/40e0d689-30bf-48aa-b358-d9c2aaf8fa6f.jpg",
+      "biography": "سينشي كودو طالب الثانوية ومحقق بارع تقلص جسده ليصبح كونان إيدوجاوا، يحل أصعب القضايا والجرائم بحثاً عن المنظمة السوداء لاستعادة جسده.",
+      "birthday": "1994-01-08",
+      "place_of_birth": "Tokyo, Japan",
+      "known_for_department": "Acting",
+      "popularity": 98.5,
+      "imdb_id": "nm0174488",
+      "movies": [
+        100001,
+        100024
+      ],
+      "series": [
+        100453,
+        100457,
+        100461,
+        100465,
+        100570,
+        100600,
+        100762,
+        100974,
+        100979,
+        200959
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 2,
+      "name": "غوكو (Son Goku)",
+      "photo": "https://cdn.spacetoongo.com/a4bfbb8e-09e3-4336-b347-ed9a18a77b8e.jpg",
+      "biography": "سايان أسطوري نشأ على كوكب الأرض، يتميز بروح المغامرة وحب التدريب وتخطي حدوده لإنقاذ الكون وأصدقائه من أشرس الخصوم.",
+      "birthday": "1984-12-03",
+      "place_of_birth": "Planet Vegeta",
+      "known_for_department": "Acting",
+      "popularity": 99.2,
+      "imdb_id": "nm0326308",
+      "movies": [],
+      "series": [
+        101032,
+        200445,
+        101039,
+        101121
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 3,
+      "name": "كابتن ماجد (Tsubasa Ozora)",
+      "photo": "https://carateen.tv/assets/img/posters/297_cover.webp",
+      "biography": "أسطورة كرة القدم وصاحب حلم الفوز بكأس العالم، قائد فريق المجد ومحبوب الملايين في العالم العربي عبر دبلجة سبيستون التاريخية.",
+      "birthday": "1983-04-13",
+      "place_of_birth": "Shizuoka, Japan",
+      "known_for_department": "Acting",
+      "popularity": 94.0,
+      "imdb_id": "nm0875231",
+      "movies": [],
+      "series": [
+        100297,
+        100301,
+        100305,
+        100309,
+        100313
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 4,
+      "name": "حسان (Hanamichi Sakuragi)",
+      "photo": "https://carateen.tv/assets/img/posters/411_cover.webp",
+      "biography": "العبقري ذو الشعر الأحمر وبطل فريق الصقور في كرة السلة، يتميز بحماسته الفائقة وروحه القتالية العالية وقفزاته المذهلة في سلام دانك.",
+      "birthday": "1993-10-16",
+      "place_of_birth": "Kanagawa, Japan",
+      "known_for_department": "Acting",
+      "popularity": 92.8,
+      "imdb_id": "nm0757271",
+      "movies": [],
+      "series": [
+        100411,
+        100415
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 5,
+      "name": "غون فريكس (Gon Freecss)",
+      "photo": "https://carateen.tv/assets/img/posters/1053_cover.webp",
+      "biography": "فتى طيب وطموح يخرج في رحلة ليصبح صياداً محترفاً بحثاً عن والده جينغ فريكس، ويخوض مغامرات حابسة للأنفاس برفقة كيلوا وكورابيكا وليوريو.",
+      "birthday": "1999-05-05",
+      "place_of_birth": "Whale Island",
+      "known_for_department": "Acting",
+      "popularity": 96.5,
+      "imdb_id": "nm1336402",
+      "movies": [],
+      "series": [
+        101053
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 6,
+      "name": "أمجد وصقر (Tai & Agumon)",
+      "photo": "https://cdn.spacetoongo.com/76eafe73-140f-4ac9-b1e2-fee1198fd408.jpg",
+      "biography": "قائد أبطال الديجيتال وصاحب شارة الشجاعة، يخوض مع رفيقه صقر معارك مصيرية لإنقاذ العالم الرقمي والعالم الحقيقي.",
+      "birthday": "1999-03-07",
+      "place_of_birth": "Odaiba, Tokyo",
+      "known_for_department": "Acting",
+      "popularity": 91.0,
+      "imdb_id": "nm0948924",
+      "movies": [],
+      "series": [
+        100950
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 7,
+      "name": "روميو وألفريدو (Romeo & Alfredo)",
+      "photo": "https://carateen.tv/assets/img/posters/321_cover.webp",
+      "biography": "رمز الصداقة والوفاء في تاريخ كرتون زمان، أبطال منظمة منظفي المداخن في ميلانو الذين حفروا قصتهم في قلوب كل أجيال سبيستون.",
+      "birthday": "1995-01-15",
+      "place_of_birth": "Switzerland / Italy",
+      "known_for_department": "Acting",
+      "popularity": 95.0,
+      "imdb_id": "nm0739281",
+      "movies": [],
+      "series": [
+        100321,
+        201005
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 8,
+      "name": "عدنان (Conan / Adnan)",
+      "photo": "https://carateen.tv/assets/img/posters/56_cover.webp",
+      "biography": "الفتى الشجاع والقوي ذو القدرات الجسدية الخارقة في عالم ما بعد الكارثة، يسعى لإنقاذ لينا من الأسر ومواجهة أطماع القلعة.",
+      "birthday": "1978-04-04",
+      "place_of_birth": "Remnant Island",
+      "known_for_department": "Acting",
+      "popularity": 93.4,
+      "imdb_id": "nm0594503",
+      "movies": [],
+      "series": [
+        100056
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 9,
+      "name": "سالي كرو (Sara Crewe)",
+      "photo": "https://carateen.tv/assets/img/posters/96_cover.webp",
+      "biography": "الفتاة النبيلة الصابرة التي واجهت قسوة الحياة في معهد الآنسة منشن بإيمان وأمل وعطف كبير، لتتحول قصتها إلى إحدى أروع كلاسيكيات الأنمي.",
+      "birthday": "1985-01-01",
+      "place_of_birth": "London, UK",
+      "known_for_department": "Acting",
+      "popularity": 91.5,
+      "imdb_id": "nm0764289",
+      "movies": [],
+      "series": [
+        100096,
+        201191
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 10,
+      "name": "ماوكلي (Mowgli)",
+      "photo": "https://carateen.tv/assets/img/posters/285_cover.webp",
+      "biography": "فتى الأدغال الذي ربته الذئاب في الغابة برفقة الدب بالو والفهد باغييرا، وحارب النمر الشرير شريخان لحماية عائلته.",
+      "birthday": "1989-10-09",
+      "place_of_birth": "Seoni, India",
+      "known_for_department": "Acting",
+      "popularity": 90.2,
+      "imdb_id": "nm0610283",
+      "movies": [],
+      "series": [
+        100285
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 11,
+      "name": "ريمي باربرين (Remi)",
+      "photo": "https://carateen.tv/assets/img/posters/482_cover.webp",
+      "biography": "الطفلة الشجاعة ذات الصوت العذب والقلب النقي التي جابت فرنسا مع العم فيتاليس وفرقته المتنقلة بحثاً عن والدتها الحقيقية.",
+      "birthday": "1996-09-01",
+      "place_of_birth": "Chavanon, France",
+      "known_for_department": "Acting",
+      "popularity": 92.0,
+      "imdb_id": "nm0718882",
+      "movies": [],
+      "series": [
+        100482,
+        200219
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 12,
+      "name": "سندباد (Sindbad)",
+      "photo": "https://carateen.tv/assets/img/posters/121_cover.webp",
+      "biography": "البحار العربي الشاب التواق للاستكشاف والمغامرة في أعالي البحار، برفقة الطائر ياسمينة والعم حسن وعلي بابا.",
+      "birthday": "1975-10-01",
+      "place_of_birth": "Baghdad, Iraq",
+      "known_for_department": "Acting",
+      "popularity": 89.8,
+      "imdb_id": "nm0801824",
+      "movies": [],
+      "series": [
+        100121
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 13,
+      "name": "سيباستيان وبيل (Belle and Sebastian)",
+      "photo": "https://carateen.tv/assets/img/posters/194_cover.webp",
+      "biography": "الفتى الصغير وكلبه الأبيض الوفي العملاق اللذان يخوضان رحلة مشوقة ومؤثرة عبر جبال البرانس بحثاً عن أمه.",
+      "birthday": "1981-04-07",
+      "place_of_birth": "Pyrenees, France",
+      "known_for_department": "Acting",
+      "popularity": 88.5,
+      "imdb_id": "nm0068402",
+      "movies": [],
+      "series": [
+        100194
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 14,
+      "name": "سنان (Fables of the Green Forest)",
+      "photo": "https://carateen.tv/assets/img/posters/206_cover.webp",
+      "biography": "القندس الصغير الذكي والمحبوب في الغابة الخضراء، يعيش مغامرات بريئة وجميلة مع أصدقائه ويعلم الصغار حب التعاون والخير.",
+      "birthday": "1973-01-07",
+      "place_of_birth": "Green Forest",
+      "known_for_department": "Acting",
+      "popularity": 87.0,
+      "imdb_id": "nm0268801",
+      "movies": [],
+      "series": [
+        100206
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    },
+    {
+      "id": 15,
+      "name": "عامر (Mark Evans / Mamoru Endo)",
+      "photo": "https://cdn.spacetoongo.com/dd8074b6-3872-43a1-a80e-0bd436c13e28.jpg",
+      "biography": "حارس مرمى وقائد فريق النسور في أبطال الكرة، صاحب اليد السحرية والحماس الملهم الذي لا يعرف الاستسلام أبداً.",
+      "birthday": "2008-10-05",
+      "place_of_birth": "Inazuma Town, Japan",
+      "known_for_department": "Acting",
+      "popularity": 94.2,
+      "imdb_id": "nm3140921",
+      "movies": [],
+      "series": [
+        201257,
+        200891
+      ],
+      "tmdb_url": null,
+      "imported_at": "2026-10-30T20:27:08.298965"
+    }
+  ]
+}
