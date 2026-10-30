@@ -28,8 +28,10 @@ jobs:
           pip install cryptography
 
       - name: Run Crawler & Update Files
+        env:
+          OUTPUT_DIR: .
         run: |
-          python crawler/crawl_and_export.py
+          python .github/workflows/crawl_and_export.py
 
       - name: Commit and push changes
         run: |
