@@ -13,9 +13,9 @@
       "release_date": "2023-01-01",
       "year": 2023,
       "runtime": 90,
-      "rating": 8.2,
-      "vote_count": 4707,
-      "popularity": 37682.0,
+      "rating": 8.1,
+      "vote_count": 4711,
+      "popularity": 37716.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -31,7 +31,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618789"
+      "imported_at": "2026-11-01T17:31:43.115578"
     },
     {
       "id": 101116,
@@ -47,8 +47,8 @@
       "year": 2025,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 3273,
-      "popularity": 34540.0,
+      "vote_count": 3275,
+      "popularity": 34577.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -64,7 +64,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.636619"
+      "imported_at": "2026-11-01T17:31:43.129784"
     },
     {
       "id": 100704,
@@ -80,8 +80,8 @@
       "year": 1999,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 1654,
-      "popularity": 26115.0,
+      "vote_count": 1657,
+      "popularity": 26140.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -97,7 +97,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.612866"
+      "imported_at": "2026-11-01T17:31:43.110777"
     },
     {
       "id": 100582,
@@ -113,8 +113,8 @@
       "year": 1997,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 1940,
-      "popularity": 25959.0,
+      "vote_count": 1943,
+      "popularity": 25984.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -130,7 +130,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.609660"
+      "imported_at": "2026-11-01T17:31:43.108198"
     },
     {
       "id": 101007,
@@ -147,7 +147,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 2266,
-      "popularity": 25260.0,
+      "popularity": 25277.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -163,7 +163,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618750"
+      "imported_at": "2026-11-01T17:31:43.115544"
     },
     {
       "id": 100811,
@@ -179,8 +179,8 @@
       "year": 2004,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 1977,
-      "popularity": 24976.0,
+      "vote_count": 1978,
+      "popularity": 24998.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -196,7 +196,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.614344"
+      "imported_at": "2026-11-01T17:31:43.111942"
     },
     {
       "id": 100896,
@@ -212,8 +212,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.5,
-      "vote_count": 2985,
-      "popularity": 23681.0,
+      "vote_count": 2987,
+      "popularity": 23692.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -229,7 +229,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.615916"
+      "imported_at": "2026-11-01T17:31:43.113219"
     },
     {
       "id": 101011,
@@ -245,8 +245,8 @@
       "year": 2022,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 2234,
-      "popularity": 23512.0,
+      "vote_count": 2236,
+      "popularity": 23534.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -262,7 +262,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618770"
+      "imported_at": "2026-11-01T17:31:43.115561"
     },
     {
       "id": 100700,
@@ -278,8 +278,8 @@
       "year": 1998,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1469,
-      "popularity": 23069.0,
+      "vote_count": 1474,
+      "popularity": 23104.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -295,7 +295,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.612845"
+      "imported_at": "2026-11-01T17:31:43.110758"
     },
     {
       "id": 100778,
@@ -311,8 +311,8 @@
       "year": 2002,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 2058,
-      "popularity": 22980.0,
+      "vote_count": 2062,
+      "popularity": 22994.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -328,7 +328,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613787"
+      "imported_at": "2026-11-01T17:31:43.111473"
     },
     {
       "id": 100732,
@@ -344,8 +344,8 @@
       "year": 2000,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1666,
-      "popularity": 22242.0,
+      "vote_count": 1668,
+      "popularity": 22261.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -361,7 +361,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613240"
+      "imported_at": "2026-11-01T17:31:43.111079"
     },
     {
       "id": 101003,
@@ -377,8 +377,8 @@
       "year": 2018,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 1863,
-      "popularity": 22167.0,
+      "vote_count": 1866,
+      "popularity": 22181.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -394,7 +394,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618729"
+      "imported_at": "2026-11-01T17:31:43.115528"
     },
     {
       "id": 100755,
@@ -411,7 +411,7 @@
       "runtime": 90,
       "rating": 8.4,
       "vote_count": 1773,
-      "popularity": 21626.0,
+      "popularity": 21651.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -427,7 +427,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613542"
+      "imported_at": "2026-11-01T17:31:43.111288"
     },
     {
       "id": 101069,
@@ -443,8 +443,8 @@
       "year": 2009,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 1136,
-      "popularity": 21195.0,
+      "vote_count": 1138,
+      "popularity": 21214.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -460,40 +460,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630060"
-    },
-    {
-      "id": 100880,
-      "type": "movie",
-      "adult": false,
-      "title": "المحقق كونان 10 : لحن وداع المتحرين",
-      "original_title": "المحقق كونان 10 : لحن وداع المتحرين",
-      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
-      "overview": "أحد المجرمين يقوم باستئجار توغو موري ليحل قضية محددة لم يذكر تفاصيلها ولكن طلب من موري أن يفعل ذلك عبر تلميحات خاصة! ولإجبار توغو على القيام بذلك قام هذا المجرم بإعطاء ران وباقي أصدقاء كونان ساعات تنفجر في حالة غادروا مدينة الألعاب، يعرف هذا المجرم أن كونان هو سينشي ولكنه لم يره (كون عينيه مصابتان بالعمى) عن طريق جهاز البصمة على يد الكرسي. ينضم هيجي هاتوري وكايتو كيد الذي تنكر بزي هاكوبا ساجورو إلى مساعدة كونان في حل لغز هذه القضية، بعد العديد من التحريات ينجحون في كشف ملابسات القضية ويتوجهون إلى الفندق الذي يوجد فيه المجرم أين ينجحون في النهاية في القبض عليه بعد مجموعة من الصعوبات وهل ينقظون الأطفال وران وكازوها من الانفجار.",
-      "poster": "https://carateen.tv/assets/img/posters/882_cover.webp",
-      "backdrop": "https://carateen.tv/assets/img/posters/881_banner.webp",
-      "release_date": "2006-01-01",
-      "year": 2006,
-      "runtime": 90,
-      "rating": 8.2,
-      "vote_count": 2162,
-      "popularity": 20032.0,
-      "genres": [
-        "Anime",
-        "Mystery"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.615707"
+      "imported_at": "2026-11-01T17:31:43.124399"
     },
     {
       "id": 101070,
@@ -510,7 +477,7 @@
       "runtime": 90,
       "rating": 8.0,
       "vote_count": 1119,
-      "popularity": 20021.0,
+      "popularity": 20072.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -526,7 +493,40 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630083"
+      "imported_at": "2026-11-01T17:31:43.124416"
+    },
+    {
+      "id": 100880,
+      "type": "movie",
+      "adult": false,
+      "title": "المحقق كونان 10 : لحن وداع المتحرين",
+      "original_title": "المحقق كونان 10 : لحن وداع المتحرين",
+      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
+      "overview": "أحد المجرمين يقوم باستئجار توغو موري ليحل قضية محددة لم يذكر تفاصيلها ولكن طلب من موري أن يفعل ذلك عبر تلميحات خاصة! ولإجبار توغو على القيام بذلك قام هذا المجرم بإعطاء ران وباقي أصدقاء كونان ساعات تنفجر في حالة غادروا مدينة الألعاب، يعرف هذا المجرم أن كونان هو سينشي ولكنه لم يره (كون عينيه مصابتان بالعمى) عن طريق جهاز البصمة على يد الكرسي. ينضم هيجي هاتوري وكايتو كيد الذي تنكر بزي هاكوبا ساجورو إلى مساعدة كونان في حل لغز هذه القضية، بعد العديد من التحريات ينجحون في كشف ملابسات القضية ويتوجهون إلى الفندق الذي يوجد فيه المجرم أين ينجحون في النهاية في القبض عليه بعد مجموعة من الصعوبات وهل ينقظون الأطفال وران وكازوها من الانفجار.",
+      "poster": "https://carateen.tv/assets/img/posters/882_cover.webp",
+      "backdrop": "https://carateen.tv/assets/img/posters/881_banner.webp",
+      "release_date": "2006-01-01",
+      "year": 2006,
+      "runtime": 90,
+      "rating": 8.2,
+      "vote_count": 2162,
+      "popularity": 20052.0,
+      "genres": [
+        "Anime",
+        "Mystery"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.113047"
     },
     {
       "id": 100798,
@@ -542,8 +542,8 @@
       "year": 2003,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 1788,
-      "popularity": 19748.0,
+      "vote_count": 1789,
+      "popularity": 19764.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -559,7 +559,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.614240"
+      "imported_at": "2026-11-01T17:31:43.111852"
     },
     {
       "id": 101074,
@@ -575,8 +575,8 @@
       "year": 2014,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 1222,
-      "popularity": 19701.0,
+      "vote_count": 1225,
+      "popularity": 19730.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -592,7 +592,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630164"
+      "imported_at": "2026-11-01T17:31:43.124485"
     },
     {
       "id": 101096,
@@ -608,8 +608,8 @@
       "year": 2025,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1525,
-      "popularity": 19568.0,
+      "vote_count": 1527,
+      "popularity": 19590.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -625,7 +625,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.634271"
+      "imported_at": "2026-11-01T17:31:43.127874"
     },
     {
       "id": 101072,
@@ -641,8 +641,8 @@
       "year": 2012,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 919,
-      "popularity": 17721.0,
+      "vote_count": 921,
+      "popularity": 17747.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -658,7 +658,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630125"
+      "imported_at": "2026-11-01T17:31:43.124451"
     },
     {
       "id": 101071,
@@ -675,7 +675,7 @@
       "runtime": 90,
       "rating": 7.9,
       "vote_count": 1141,
-      "popularity": 16943.0,
+      "popularity": 16972.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -691,7 +691,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630107"
+      "imported_at": "2026-11-01T17:31:43.124437"
     },
     {
       "id": 1148359749,
@@ -707,8 +707,8 @@
       "year": 2026,
       "runtime": 107,
       "rating": 8.8,
-      "vote_count": 806,
-      "popularity": 16122.0,
+      "vote_count": 814,
+      "popularity": 16280.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -726,7 +726,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687478"
+      "imported_at": "2026-11-01T17:31:43.170094"
     },
     {
       "id": 100876,
@@ -742,8 +742,8 @@
       "year": 2005,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1389,
-      "popularity": 15517.0,
+      "vote_count": 1391,
+      "popularity": 15529.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -759,7 +759,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.615660"
+      "imported_at": "2026-11-01T17:31:43.113013"
     },
     {
       "id": 101073,
@@ -775,8 +775,8 @@
       "year": 2013,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 975,
-      "popularity": 15039.0,
+      "vote_count": 977,
+      "popularity": 15071.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -792,7 +792,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630144"
+      "imported_at": "2026-11-01T17:31:43.124469"
     },
     {
       "id": 101140,
@@ -808,8 +808,8 @@
       "year": 2008,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1124,
-      "popularity": 14918.0,
+      "vote_count": 1126,
+      "popularity": 14972.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -825,7 +825,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640011"
+      "imported_at": "2026-11-01T17:31:43.132484"
     },
     {
       "id": 101139,
@@ -841,8 +841,8 @@
       "year": 2007,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 1018,
-      "popularity": 13950.0,
+      "vote_count": 1020,
+      "popularity": 13990.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -858,7 +858,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.639991"
+      "imported_at": "2026-11-01T17:31:43.132466"
     },
     {
       "id": 200447,
@@ -874,8 +874,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 680,
-      "popularity": 13614.0,
+      "vote_count": 682,
+      "popularity": 13642.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -893,7 +893,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.657565"
+      "imported_at": "2026-11-01T17:31:43.146507"
     },
     {
       "id": 101067,
@@ -910,7 +910,7 @@
       "runtime": 90,
       "rating": 8.0,
       "vote_count": 883,
-      "popularity": 13586.0,
+      "popularity": 13591.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -926,7 +926,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630012"
+      "imported_at": "2026-11-01T17:31:43.124362"
     },
     {
       "id": 101068,
@@ -942,8 +942,8 @@
       "year": 2008,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 765,
-      "popularity": 13502.0,
+      "vote_count": 766,
+      "popularity": 13506.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -959,7 +959,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.630035"
+      "imported_at": "2026-11-01T17:31:43.124382"
     },
     {
       "id": 200397,
@@ -975,8 +975,8 @@
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
-      "vote_count": 606,
-      "popularity": 12131.0,
+      "vote_count": 608,
+      "popularity": 12167.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -994,7 +994,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.656133"
+      "imported_at": "2026-11-01T17:31:43.145397"
     },
     {
       "id": 200791,
@@ -1010,8 +1010,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 579,
-      "popularity": 11599.0,
+      "vote_count": 580,
+      "popularity": 11610.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1029,7 +1029,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670214"
+      "imported_at": "2026-11-01T17:31:43.156601"
     },
     {
       "id": 200461,
@@ -1045,8 +1045,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 510,
-      "popularity": 10214.0,
+      "vote_count": 511,
+      "popularity": 10234.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1065,7 +1065,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.658131"
+      "imported_at": "2026-11-01T17:31:43.146942"
     },
     {
       "id": 200260,
@@ -1082,7 +1082,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 483,
-      "popularity": 9669.0,
+      "popularity": 9678.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1101,7 +1101,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.650336"
+      "imported_at": "2026-11-01T17:31:43.140760"
     },
     {
       "id": 200491,
@@ -1117,8 +1117,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 468,
-      "popularity": 9370.0,
+      "vote_count": 470,
+      "popularity": 9406.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1137,7 +1137,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659160"
+      "imported_at": "2026-11-01T17:31:43.147779"
     },
     {
       "id": 100995,
@@ -1153,8 +1153,8 @@
       "year": 2001,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 736,
-      "popularity": 8991.0,
+      "vote_count": 739,
+      "popularity": 8998.0,
       "genres": [
         "Anime"
       ],
@@ -1169,7 +1169,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618687"
+      "imported_at": "2026-11-01T17:31:43.115493"
     },
     {
       "id": 200439,
@@ -1186,7 +1186,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 438,
-      "popularity": 8768.0,
+      "popularity": 8778.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1205,7 +1205,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.657015"
+      "imported_at": "2026-11-01T17:31:43.146083"
     },
     {
       "id": 200573,
@@ -1216,13 +1216,13 @@
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "بعد تزييف موته يعود أكاي لينقذ المخابرات من شرور المنظمة السوداء.ألغاز جديدة سوف تكشف عن عائلة أكاي شويتشي، أكثر العائلات غموضاً",
       "poster": "https://cdn.spacetoongo.com/bc3a6285-b31c-4ae2-a253-04348499ac0f.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/8629825a-c559-48e6-bd3b-ae14ec834920.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/fe501832-3481-467a-aea2-4e12a13a7e53.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 437,
-      "popularity": 8754.0,
+      "vote_count": 438,
+      "popularity": 8765.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1241,7 +1241,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.662607"
+      "imported_at": "2026-11-01T17:31:43.150553"
     },
     {
       "id": 200497,
@@ -1257,8 +1257,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 429,
-      "popularity": 8582.0,
+      "vote_count": 430,
+      "popularity": 8604.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1277,7 +1277,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659225"
+      "imported_at": "2026-11-01T17:31:43.147849"
     },
     {
       "id": 201043,
@@ -1287,14 +1287,14 @@
       "original_title": "كونان فيلم تجميعي | كونان في مواجهة كايتو اللص الطائر",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "جوهرة ثمينة استحوذت على اهتمام اللص الطائر كايتو كيد وأصبحت هدفه التالي ،وكونان المتحري الذكي يعتبرها تحدياً لا يمكن تفويته حيث ستحدث مواجهة شرسة بين العبقرية والخداع",
-      "poster": "https://cdn.spacetoongo.com/images/40234-poster-1.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/images/ab1e8-show-cover-smart-tv.jpg",
+      "poster": "https://cdn.spacetoongo.com/d1e62c44-ce05-44aa-9908-bb4f2f8bb758.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/c17ee5dc-3563-4fd8-9427-0251b18b40a0.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 393,
-      "popularity": 7872.0,
+      "vote_count": 394,
+      "popularity": 7887.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1312,7 +1312,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.680480"
+      "imported_at": "2026-11-01T17:31:43.164609"
     },
     {
       "id": 200785,
@@ -1329,7 +1329,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 388,
-      "popularity": 7764.0,
+      "popularity": 7767.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1347,7 +1347,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670193"
+      "imported_at": "2026-11-01T17:31:43.156583"
     },
     {
       "id": 200495,
@@ -1363,8 +1363,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 379,
-      "popularity": 7590.0,
+      "vote_count": 380,
+      "popularity": 7613.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1382,7 +1382,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659203"
+      "imported_at": "2026-11-01T17:31:43.147830"
     },
     {
       "id": 100991,
@@ -1399,7 +1399,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 772,
-      "popularity": 7429.0,
+      "popularity": 7432.0,
       "genres": [
         "Anime"
       ],
@@ -1414,7 +1414,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618637"
+      "imported_at": "2026-11-01T17:31:43.115456"
     },
     {
       "id": 200823,
@@ -1430,8 +1430,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 358,
-      "popularity": 7179.0,
+      "vote_count": 359,
+      "popularity": 7185.0,
       "genres": [
         "Anime",
         "Mecha",
@@ -1451,7 +1451,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670826"
+      "imported_at": "2026-11-01T17:31:43.157088"
     },
     {
       "id": 200493,
@@ -1467,8 +1467,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 332,
-      "popularity": 6653.0,
+      "vote_count": 333,
+      "popularity": 6660.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1487,7 +1487,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659182"
+      "imported_at": "2026-11-01T17:31:43.147807"
     },
     {
       "id": 200735,
@@ -1503,8 +1503,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 321,
-      "popularity": 6431.0,
+      "vote_count": 322,
+      "popularity": 6440.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1522,42 +1522,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.668559"
-    },
-    {
-      "id": 200765,
-      "type": "movie",
-      "adult": false,
-      "title": "كونان فيلم 6 | لغز شارع بيكر",
-      "original_title": "كونان فيلم 6 | لغز شارع بيكر",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "لندن قبل مئة عام ستكون خيطاً لمعرفة قاتل مبرمج لعبة الشرنقة والتي ستضع حياة خمسين طفلاً على المحك.",
-      "poster": "https://cdn.spacetoongo.com/60f7164d-866c-4b24-af13-4cad72073259.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/1a82f6b7-5b19-4491-9cbf-e6724bc510dd.jpg",
-      "release_date": "2024-01-01",
-      "year": 2024,
-      "runtime": 90,
-      "rating": 8.8,
-      "vote_count": 308,
-      "popularity": 6173.0,
-      "genres": [
-        "Anime",
-        "Mystery",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.669546"
+      "imported_at": "2026-11-01T17:31:43.155297"
     },
     {
       "id": 101133,
@@ -1573,8 +1538,8 @@
       "year": 2026,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 339,
-      "popularity": 6172.0,
+      "vote_count": 340,
+      "popularity": 6202.0,
       "genres": [
         "Anime"
       ],
@@ -1589,7 +1554,42 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.639406"
+      "imported_at": "2026-11-01T17:31:43.132008"
+    },
+    {
+      "id": 200765,
+      "type": "movie",
+      "adult": false,
+      "title": "كونان فيلم 6 | لغز شارع بيكر",
+      "original_title": "كونان فيلم 6 | لغز شارع بيكر",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "لندن قبل مئة عام ستكون خيطاً لمعرفة قاتل مبرمج لعبة الشرنقة والتي ستضع حياة خمسين طفلاً على المحك.",
+      "poster": "https://cdn.spacetoongo.com/60f7164d-866c-4b24-af13-4cad72073259.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/1a82f6b7-5b19-4491-9cbf-e6724bc510dd.jpg",
+      "release_date": "2024-01-01",
+      "year": 2024,
+      "runtime": 90,
+      "rating": 8.8,
+      "vote_count": 309,
+      "popularity": 6187.0,
+      "genres": [
+        "Anime",
+        "Mystery",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.156079"
     },
     {
       "id": 201175,
@@ -1599,14 +1599,14 @@
       "original_title": "كوروكو كرة السلة فيلم 4: اللعبة الأخيرة",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "معركة حاسمة تشتعل بين الفريق الذهبي وفريق الأحلام المغرور، مواجهة لا تعرف الرحمة، يسعى الفريق الذهبي لاستعادة مجدهم وإثبات المعنى الحقيقي لكرة السلة.",
-      "poster": "https://cdn.spacetoongo.com/images/kuroko/Poster copy.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/kuroko%20cover%20tv%20Aw7.jpg",
+      "poster": "https://cdn.spacetoongo.com/6639b346-7257-46ac-aba6-dda07ec28637.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/c26d2634-d043-4179-9576-51fe9335bd5f.jpg",
       "release_date": "2025-01-01",
       "year": 2025,
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 308,
-      "popularity": 6161.0,
+      "popularity": 6170.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -1624,7 +1624,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.682759"
+      "imported_at": "2026-11-01T17:31:43.166412"
     },
     {
       "id": 200775,
@@ -1640,8 +1640,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 303,
-      "popularity": 6075.0,
+      "vote_count": 304,
+      "popularity": 6083.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1659,39 +1659,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.669876"
-    },
-    {
-      "id": 100999,
-      "type": "movie",
-      "adult": false,
-      "title": "Ponyo - بونيو",
-      "original_title": "Ponyo - بونيو",
-      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
-      "overview": "تدور احداث القصة عن سمكة صغيرة تدعى بونيو تعيش مع أخواتها في حوض للماء في قلعة أبيها التي تقع تحت البحر.عندما أخذها والدها هي وأخواتها في رحلة خارج قلعته، شعرت بونيو برغبة لمعرفة المزيد عن هذا العالم، فسبحت بعيداً ,وعندما وصلت إلى شاطئ قرية صغيرة لصيد الأسماك قام بإنقاذها ولد صغير يدعى ساسكيه الذي سمى بونيو بهذا الاسم ووعدها بأن يحميها إلى الابد. في نفس الوقت. كان فوجيموتو، والد بونيو يبحث عنها وهو مستاء، لأنه كان يعتقد أن البشر قاموا باختطافها.",
-      "poster": "https://carateen.tv/assets/img/posters/1001_cover.webp",
-      "backdrop": "https://carateen.tv/assets/img/posters/1000_banner_large.webp",
-      "release_date": "2008-01-01",
-      "year": 2008,
-      "runtime": 90,
-      "rating": 8.0,
-      "vote_count": 498,
-      "popularity": 5935.0,
-      "genres": [
-        "Anime"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618706"
+      "imported_at": "2026-11-01T17:31:43.156330"
     },
     {
       "id": 200867,
@@ -1707,8 +1675,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 296,
-      "popularity": 5926.0,
+      "vote_count": 297,
+      "popularity": 5945.0,
       "genres": [
         "Action",
         "Anime",
@@ -1728,7 +1696,39 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.672124"
+      "imported_at": "2026-11-01T17:31:43.158108"
+    },
+    {
+      "id": 100999,
+      "type": "movie",
+      "adult": false,
+      "title": "Ponyo - بونيو",
+      "original_title": "Ponyo - بونيو",
+      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
+      "overview": "تدور احداث القصة عن سمكة صغيرة تدعى بونيو تعيش مع أخواتها في حوض للماء في قلعة أبيها التي تقع تحت البحر.عندما أخذها والدها هي وأخواتها في رحلة خارج قلعته، شعرت بونيو برغبة لمعرفة المزيد عن هذا العالم، فسبحت بعيداً ,وعندما وصلت إلى شاطئ قرية صغيرة لصيد الأسماك قام بإنقاذها ولد صغير يدعى ساسكيه الذي سمى بونيو بهذا الاسم ووعدها بأن يحميها إلى الابد. في نفس الوقت. كان فوجيموتو، والد بونيو يبحث عنها وهو مستاء، لأنه كان يعتقد أن البشر قاموا باختطافها.",
+      "poster": "https://carateen.tv/assets/img/posters/1001_cover.webp",
+      "backdrop": "https://carateen.tv/assets/img/posters/1000_banner_large.webp",
+      "release_date": "2008-01-01",
+      "year": 2008,
+      "runtime": 90,
+      "rating": 8.0,
+      "vote_count": 498,
+      "popularity": 5940.0,
+      "genres": [
+        "Anime"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.115508"
     },
     {
       "id": 100987,
@@ -1745,7 +1745,7 @@
       "runtime": 90,
       "rating": 7.7,
       "vote_count": 422,
-      "popularity": 5855.0,
+      "popularity": 5870.0,
       "genres": [
         "Anime"
       ],
@@ -1760,7 +1760,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.618657"
+      "imported_at": "2026-11-01T17:31:43.115472"
     },
     {
       "id": 200001,
@@ -1776,8 +1776,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 288,
-      "popularity": 5768.0,
+      "vote_count": 289,
+      "popularity": 5799.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1795,7 +1795,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640134"
+      "imported_at": "2026-11-01T17:31:43.132582"
     },
     {
       "id": 200043,
@@ -1811,8 +1811,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 264,
-      "popularity": 5291.0,
+      "vote_count": 265,
+      "popularity": 5316.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1830,7 +1830,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640216"
+      "imported_at": "2026-11-01T17:31:43.132649"
     },
     {
       "id": 100803,
@@ -1846,8 +1846,8 @@
       "year": 1988,
       "runtime": 90,
       "rating": 8.4,
-      "vote_count": 446,
-      "popularity": 5267.0,
+      "vote_count": 447,
+      "popularity": 5276.0,
       "genres": [
         "Anime"
       ],
@@ -1862,7 +1862,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.614261"
+      "imported_at": "2026-11-01T17:31:43.111871"
     },
     {
       "id": 200395,
@@ -1878,8 +1878,8 @@
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
-      "vote_count": 250,
-      "popularity": 5011.0,
+      "vote_count": 251,
+      "popularity": 5023.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1897,7 +1897,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.656112"
+      "imported_at": "2026-11-01T17:31:43.145380"
     },
     {
       "id": 100884,
@@ -1913,8 +1913,8 @@
       "year": 1989,
       "runtime": 90,
       "rating": 8.4,
-      "vote_count": 468,
-      "popularity": 4767.0,
+      "vote_count": 469,
+      "popularity": 4772.0,
       "genres": [
         "Anime"
       ],
@@ -1929,7 +1929,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.615681"
+      "imported_at": "2026-11-01T17:31:43.113030"
     },
     {
       "id": 200035,
@@ -1945,8 +1945,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 222,
-      "popularity": 4440.0,
+      "vote_count": 223,
+      "popularity": 4466.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1964,7 +1964,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640164"
+      "imported_at": "2026-11-01T17:31:43.132602"
     },
     {
       "id": 969701286,
@@ -1980,8 +1980,8 @@
       "year": 2026,
       "runtime": 104,
       "rating": 8.8,
-      "vote_count": 217,
-      "popularity": 4352.0,
+      "vote_count": 218,
+      "popularity": 4376.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1999,7 +1999,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687462"
+      "imported_at": "2026-11-01T17:31:43.170081"
     },
     {
       "id": 200041,
@@ -2015,8 +2015,8 @@
       "year": 2026,
       "runtime": 109,
       "rating": 8.8,
-      "vote_count": 215,
-      "popularity": 4307.0,
+      "vote_count": 216,
+      "popularity": 4334.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2034,7 +2034,42 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640200"
+      "imported_at": "2026-11-01T17:31:43.132636"
+    },
+    {
+      "id": 154426995,
+      "type": "movie",
+      "adult": false,
+      "title": "كونان فيلم 12 |  سمفونية الخوف",
+      "original_title": "كونان فيلم 12 |  سمفونية الخوف",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "تتمحور قصة هذا الفيلم حول كلة موسيقية للموسيقي دوموتو. فوا ضابط البيانيو يحقد عليه لأنه تحول من عزف البيانو إلى عزف الأورغكما أنه  يقوم بقتل أربعة موسيقيين بسبب\n أنهم كانوا السبب في موت شاب مقرب إليه، ثم يخطط لتفجير صالة دوموتو الموسيقية أثناء إقامة الاحتفال وذلك باستعمال خطة بحيث أن أصوات الأروغ هي التي تفجر القنابل \nواستعمل المجرم موهبة موجودة لديه وهي القدرة على تمييز النغمات. تقوم ريكو وهي مغنية أبرا بمساعدة كونان والشرطة في إيقاف تقدم المجرم وذلك عن طريق الصعود للمنصة وإجبار دوموتو على تغيير اللحن. في النهاية يتمكن كونان بمساعدة الضابطة ساتو من القبض على المجرم.",
+      "poster": "https://cdn.spacetoongo.com/5f4237fe-6764-400f-8dfb-22474a6c0224.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/54d878a2-40de-4bbe-bd16-bd627b493cbc.jpg",
+      "release_date": "2026-01-01",
+      "year": 2026,
+      "runtime": 114,
+      "rating": 8.8,
+      "vote_count": 213,
+      "popularity": 4269.0,
+      "genres": [
+        "Anime",
+        "Mystery",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.170032"
     },
     {
       "id": 200847,
@@ -2051,7 +2086,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 212,
-      "popularity": 4248.0,
+      "popularity": 4258.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2068,42 +2103,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.671497"
-    },
-    {
-      "id": 154426995,
-      "type": "movie",
-      "adult": false,
-      "title": "كونان فيلم 12 |  سمفونية الخوف",
-      "original_title": "كونان فيلم 12 |  سمفونية الخوف",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "تتمحور قصة هذا الفيلم حول كلة موسيقية للموسيقي دوموتو. فوا ضابط البيانيو يحقد عليه لأنه تحول من عزف البيانو إلى عزف الأورغكما أنه  يقوم بقتل أربعة موسيقيين بسبب\n أنهم كانوا السبب في موت شاب مقرب إليه، ثم يخطط لتفجير صالة دوموتو الموسيقية أثناء إقامة الاحتفال وذلك باستعمال خطة بحيث أن أصوات الأروغ هي التي تفجر القنابل \nواستعمل المجرم موهبة موجودة لديه وهي القدرة على تمييز النغمات. تقوم ريكو وهي مغنية أبرا بمساعدة كونان والشرطة في إيقاف تقدم المجرم وذلك عن طريق الصعود للمنصة وإجبار دوموتو على تغيير اللحن. في النهاية يتمكن كونان بمساعدة الضابطة ساتو من القبض على المجرم.",
-      "poster": "https://cdn.spacetoongo.com/5f4237fe-6764-400f-8dfb-22474a6c0224.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/54d878a2-40de-4bbe-bd16-bd627b493cbc.jpg",
-      "release_date": "2026-01-01",
-      "year": 2026,
-      "runtime": 114,
-      "rating": 8.8,
-      "vote_count": 211,
-      "popularity": 4235.0,
-      "genres": [
-        "Anime",
-        "Mystery",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687403"
+      "imported_at": "2026-11-01T17:31:43.157617"
     },
     {
       "id": 200771,
@@ -2119,8 +2119,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 211,
-      "popularity": 4234.0,
+      "vote_count": 212,
+      "popularity": 4243.0,
       "genres": [
         "Anime",
         "Drama",
@@ -2140,7 +2140,43 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.669833"
+      "imported_at": "2026-11-01T17:31:43.156296"
+    },
+    {
+      "id": 200236,
+      "type": "movie",
+      "adult": false,
+      "title": "Conan movie 22 |Zero the Enforcer-  مدبلج بالإنكليزية",
+      "original_title": "Conan movie 22 |Zero the Enforcer-  مدبلج بالإنكليزية",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "يحقق المتحري الصغير كونان في انفجارغامض\n حدث في يوم افتتاح منتجع كبير ومركز مؤتمرات في طوكيو.",
+      "poster": "https://cdn.spacetoongo.com/images/01ec8-conan-22-zero-the-enforcer-eng-poster.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/images/0e5cd-conan-22-zero-the-enforcer-cover.jpg",
+      "release_date": "2024-01-01",
+      "year": 2024,
+      "runtime": 75,
+      "rating": 8.8,
+      "vote_count": 190,
+      "popularity": 3812.0,
+      "genres": [
+        "Adventure",
+        "Anime",
+        "Mystery",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.139004"
     },
     {
       "id": 100728,
@@ -2172,43 +2208,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613218"
-    },
-    {
-      "id": 200236,
-      "type": "movie",
-      "adult": false,
-      "title": "Conan movie 22 |Zero the Enforcer-  مدبلج بالإنكليزية",
-      "original_title": "Conan movie 22 |Zero the Enforcer-  مدبلج بالإنكليزية",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "يحقق المتحري الصغير كونان في انفجارغامض\n حدث في يوم افتتاح منتجع كبير ومركز مؤتمرات في طوكيو.",
-      "poster": "https://cdn.spacetoongo.com/images/01ec8-conan-22-zero-the-enforcer-eng-poster.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/images/0e5cd-conan-22-zero-the-enforcer-cover.jpg",
-      "release_date": "2024-01-01",
-      "year": 2024,
-      "runtime": 75,
-      "rating": 8.8,
-      "vote_count": 190,
-      "popularity": 3807.0,
-      "genres": [
-        "Adventure",
-        "Anime",
-        "Mystery",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.648109"
+      "imported_at": "2026-11-01T17:31:43.111063"
     },
     {
       "id": 101110,
@@ -2225,7 +2225,7 @@
       "runtime": 90,
       "rating": 7.7,
       "vote_count": 152,
-      "popularity": 3634.0,
+      "popularity": 3641.0,
       "genres": [
         "Anime"
       ],
@@ -2240,7 +2240,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.636052"
+      "imported_at": "2026-11-01T17:31:43.129326"
     },
     {
       "id": 100010,
@@ -2257,7 +2257,7 @@
       "runtime": 90,
       "rating": 7.8,
       "vote_count": 202,
-      "popularity": 3543.0,
+      "popularity": 3549.0,
       "genres": [
         "Anime"
       ],
@@ -2272,7 +2272,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.591212"
+      "imported_at": "2026-11-01T17:31:43.093415"
     },
     {
       "id": 200237,
@@ -2289,7 +2289,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 175,
-      "popularity": 3515.0,
+      "popularity": 3518.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -2308,41 +2308,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.648130"
-    },
-    {
-      "id": 608042310,
-      "type": "movie",
-      "adult": false,
-      "title": "رسائل يون",
-      "original_title": "رسائل يون",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "تنتقل لي سو-ري إلى الريف هربًا من التنمّر، لتجد في مدرستها الجديدة سلسلة رسائل غامضة موجّهة إليها تكشف أسرار المدرسة وتقودها من رسالة إلى أخرى.\nومع كل رسالة، تقترب من اكتشاف هوية كاتبها، بينما تواجه مخاوفها وتحاول بناء صداقات جديدة.",
-      "poster": "https://cdn.spacetoongo.com/65da7574-4307-44ea-980f-b9d40d99fa80.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/79dc6138-1c63-4ccc-9740-9fee5c190226.jpg",
-      "release_date": "2026-01-01",
-      "year": 2026,
-      "runtime": 92,
-      "rating": 8.8,
-      "vote_count": 163,
-      "popularity": 3268.0,
-      "genres": [
-        "Anime",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687444"
+      "imported_at": "2026-11-01T17:31:43.139021"
     },
     {
       "id": 2099113353,
@@ -2358,8 +2324,8 @@
       "year": 2026,
       "runtime": 108,
       "rating": 8.8,
-      "vote_count": 163,
-      "popularity": 3262.0,
+      "vote_count": 164,
+      "popularity": 3289.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2377,7 +2343,41 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687514"
+      "imported_at": "2026-11-01T17:31:43.170123"
+    },
+    {
+      "id": 608042310,
+      "type": "movie",
+      "adult": false,
+      "title": "رسائل يون",
+      "original_title": "رسائل يون",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "تنتقل لي سو-ري إلى الريف هربًا من التنمّر، لتجد في مدرستها الجديدة سلسلة رسائل غامضة موجّهة إليها تكشف أسرار المدرسة وتقودها من رسالة إلى أخرى.\nومع كل رسالة، تقترب من اكتشاف هوية كاتبها، بينما تواجه مخاوفها وتحاول بناء صداقات جديدة.",
+      "poster": "https://cdn.spacetoongo.com/65da7574-4307-44ea-980f-b9d40d99fa80.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/79dc6138-1c63-4ccc-9740-9fee5c190226.jpg",
+      "release_date": "2026-01-01",
+      "year": 2026,
+      "runtime": 92,
+      "rating": 8.8,
+      "vote_count": 164,
+      "popularity": 3287.0,
+      "genres": [
+        "Anime",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.170067"
     },
     {
       "id": 101103,
@@ -2394,7 +2394,7 @@
       "runtime": 90,
       "rating": 8.0,
       "vote_count": 268,
-      "popularity": 3252.0,
+      "popularity": 3260.0,
       "genres": [
         "Anime"
       ],
@@ -2409,7 +2409,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.635451"
+      "imported_at": "2026-11-01T17:31:43.128842"
     },
     {
       "id": 201183,
@@ -2426,7 +2426,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 157,
-      "popularity": 3152.0,
+      "popularity": 3155.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -2444,7 +2444,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.682982"
+      "imported_at": "2026-11-01T17:31:43.166592"
     },
     {
       "id": 100151,
@@ -2461,7 +2461,7 @@
       "runtime": 90,
       "rating": 7.8,
       "vote_count": 217,
-      "popularity": 3127.0,
+      "popularity": 3131.0,
       "genres": [
         "Anime"
       ],
@@ -2476,7 +2476,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.594866"
+      "imported_at": "2026-11-01T17:31:43.096339"
     },
     {
       "id": 100746,
@@ -2493,7 +2493,7 @@
       "runtime": 90,
       "rating": 7.9,
       "vote_count": 232,
-      "popularity": 3063.0,
+      "popularity": 3066.0,
       "genres": [
         "Anime"
       ],
@@ -2508,7 +2508,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613306"
+      "imported_at": "2026-11-01T17:31:43.111132"
     },
     {
       "id": 100767,
@@ -2540,7 +2540,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613741"
+      "imported_at": "2026-11-01T17:31:43.111439"
     },
     {
       "id": 200793,
@@ -2556,8 +2556,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 144,
-      "popularity": 2898.0,
+      "vote_count": 145,
+      "popularity": 2900.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2575,7 +2575,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670234"
+      "imported_at": "2026-11-01T17:31:43.156617"
     },
     {
       "id": 201017,
@@ -2610,41 +2610,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.680147"
-    },
-    {
-      "id": 200917,
-      "type": "movie",
-      "adult": false,
-      "title": "مغامرة في بلاد العجائب",
-      "original_title": "مغامرة في بلاد العجائب",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "مغامرة فريدة ستخوضها أماني وحياة إلى العالم مقابل المليء بالعجائب،ومصير مفاجئ ينتظر أماني لإنقاذ البلاد من هلاك وشيك.",
-      "poster": "https://cdn.spacetoongo.com/63fad8c0-0528-4e2e-a4b9-8f29d3e9da9b.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/0a00ebe4-eef3-4470-b721-0ea209577c44.jpg",
-      "release_date": "2024-01-01",
-      "year": 2024,
-      "runtime": 90,
-      "rating": 8.8,
-      "vote_count": 120,
-      "popularity": 2417.0,
-      "genres": [
-        "Anime",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": false,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.674880"
+      "imported_at": "2026-11-01T17:31:43.164344"
     },
     {
       "id": 200767,
@@ -2661,7 +2627,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 120,
-      "popularity": 2416.0,
+      "popularity": 2419.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2679,7 +2645,41 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.669567"
+      "imported_at": "2026-11-01T17:31:43.156098"
+    },
+    {
+      "id": 200917,
+      "type": "movie",
+      "adult": false,
+      "title": "مغامرة في بلاد العجائب",
+      "original_title": "مغامرة في بلاد العجائب",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "مغامرة فريدة ستخوضها أماني وحياة إلى العالم مقابل المليء بالعجائب،ومصير مفاجئ ينتظر أماني لإنقاذ البلاد من هلاك وشيك.",
+      "poster": "https://cdn.spacetoongo.com/63fad8c0-0528-4e2e-a4b9-8f29d3e9da9b.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/0a00ebe4-eef3-4470-b721-0ea209577c44.jpg",
+      "release_date": "2024-01-01",
+      "year": 2024,
+      "runtime": 90,
+      "rating": 8.8,
+      "vote_count": 120,
+      "popularity": 2419.0,
+      "genres": [
+        "Anime",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.160273"
     },
     {
       "id": 1582249768,
@@ -2696,7 +2696,7 @@
       "runtime": 102,
       "rating": 8.8,
       "vote_count": 118,
-      "popularity": 2367.0,
+      "popularity": 2376.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2714,7 +2714,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687495"
+      "imported_at": "2026-11-01T17:31:43.170109"
     },
     {
       "id": 200737,
@@ -2731,7 +2731,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 112,
-      "popularity": 2250.0,
+      "popularity": 2251.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2749,7 +2749,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.668583"
+      "imported_at": "2026-11-01T17:31:43.155316"
     },
     {
       "id": 200865,
@@ -2766,7 +2766,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 111,
-      "popularity": 2235.0,
+      "popularity": 2236.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2784,7 +2784,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.672104"
+      "imported_at": "2026-11-01T17:31:43.158093"
     },
     {
       "id": 200825,
@@ -2801,7 +2801,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 111,
-      "popularity": 2222.0,
+      "popularity": 2226.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2818,7 +2818,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670847"
+      "imported_at": "2026-11-01T17:31:43.157104"
     },
     {
       "id": 200905,
@@ -2835,7 +2835,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 107,
-      "popularity": 2148.0,
+      "popularity": 2152.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2852,7 +2852,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673961"
+      "imported_at": "2026-11-01T17:31:43.159551"
     },
     {
       "id": 200831,
@@ -2887,7 +2887,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.671069"
+      "imported_at": "2026-11-01T17:31:43.157270"
     },
     {
       "id": 200909,
@@ -2904,7 +2904,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 102,
-      "popularity": 2047.0,
+      "popularity": 2049.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2921,7 +2921,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.674000"
+      "imported_at": "2026-11-01T17:31:43.159586"
     },
     {
       "id": 200795,
@@ -2931,14 +2931,14 @@
       "original_title": "بلال: سلالة بطل جديد",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "قصة مستوحاة من حياة الصحابي بلال بن رباح مؤذن النبي محمد ﷺ،عاش بلال رضي الله عنه ظروفاً قاسيةً في زمن يحكمه الجشع والظلم حتى أتى الإسلام وحرر العبيد وحقق المساواة بين الناس.",
-      "poster": "https://cdn.spacetoongo.com/images/15909-poster-2.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/images/6898d-tv-cover.jpg",
+      "poster": "https://cdn.spacetoongo.com/be9f1fa3-6279-465c-9088-625f0e39d9f8.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/dc70153e-357d-4517-a14e-2155e74e1837.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 95,
-      "popularity": 1907.0,
+      "popularity": 1909.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2955,7 +2955,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670254"
+      "imported_at": "2026-11-01T17:31:43.156632"
     },
     {
       "id": 200799,
@@ -2989,7 +2989,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670289"
+      "imported_at": "2026-11-01T17:31:43.156659"
     },
     {
       "id": 200037,
@@ -3006,7 +3006,7 @@
       "runtime": 87,
       "rating": 8.8,
       "vote_count": 94,
-      "popularity": 1881.0,
+      "popularity": 1892.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -3024,7 +3024,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640184"
+      "imported_at": "2026-11-01T17:31:43.132619"
     },
     {
       "id": 200301,
@@ -3058,7 +3058,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.652339"
+      "imported_at": "2026-11-01T17:31:43.142374"
     },
     {
       "id": 100016,
@@ -3075,7 +3075,7 @@
       "runtime": 90,
       "rating": 8.4,
       "vote_count": 123,
-      "popularity": 1713.0,
+      "popularity": 1714.0,
       "genres": [
         "Anime"
       ],
@@ -3090,7 +3090,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.591254"
+      "imported_at": "2026-11-01T17:31:43.093441"
     },
     {
       "id": 200961,
@@ -3107,7 +3107,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 83,
-      "popularity": 1660.0,
+      "popularity": 1663.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3124,7 +3124,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.678177"
+      "imported_at": "2026-11-01T17:31:43.162797"
     },
     {
       "id": 201169,
@@ -3134,14 +3134,14 @@
       "original_title": "رشا رزق أيامنا الحلوة",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "رحلة جميلة في عالم سبيستون وكواكبه تغني فيها الفنانة رشا رزق شارات وأغاني لطالما شكلت جزءاً من شخصية شباب المستقبل.",
-      "poster": "https://cdn.spacetoongo.com/images/رشا رزق/أيامنا الحلوة/poster mobile.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/images/رشا رزق/أيامنا الحلوة/cover tv.jpg",
+      "poster": "https://cdn.spacetoongo.com/7e9c014a-cb04-4240-9239-926cb1aacd1c.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/2de0db02-cb05-446f-919f-eb4e606fb03c.jpg",
       "release_date": "2025-01-01",
       "year": 2025,
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 73,
-      "popularity": 1464.0,
+      "popularity": 1466.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3158,7 +3158,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.682711"
+      "imported_at": "2026-11-01T17:31:43.166373"
     },
     {
       "id": 200284,
@@ -3192,7 +3192,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.651871"
+      "imported_at": "2026-11-01T17:31:43.141996"
     },
     {
       "id": 100449,
@@ -3209,7 +3209,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 64,
-      "popularity": 1406.0,
+      "popularity": 1407.0,
       "genres": [
         "Anime"
       ],
@@ -3224,7 +3224,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.601952"
+      "imported_at": "2026-11-01T17:31:43.101968"
     },
     {
       "id": 200949,
@@ -3234,14 +3234,14 @@
       "original_title": "بائع الحليب",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "وليد فتى صغير ترعرع في منزل جده بائع الحليب بعد وفاة والديه ،عانى ظروفاً قاسية منعته من تحقيق حلمه بأن يصبح رساماً ،ترى ما الذي ينتظر وليد في رحلته؟.",
-      "poster": "https://cdn.spacetoongo.com/images/35106-poster.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/05aa7330-64dc-41ea-a5ab-e9ab0b07d124.jpg",
+      "poster": "https://cdn.spacetoongo.com/0b4359c0-14e0-48e1-88f8-00b58918080c.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/6b0bbc45-40ac-4d0f-ba5d-e3306ca67283.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 67,
-      "popularity": 1354.0,
+      "popularity": 1356.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3258,7 +3258,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.676276"
+      "imported_at": "2026-11-01T17:31:43.161295"
     },
     {
       "id": 200303,
@@ -3269,13 +3269,13 @@
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "جريمةٌ حدثت في محطّة القطار القريبة من منزل الفتاة الضريرة ميشيل ،وشابٌ قصد منزلها مختبأً لأن الشرطة تلاحقه معتقدين أنه القاتل فينتظر حتى تظهرالحقيقة.",
       "poster": "https://cdn.spacetoongo.com/4664bc48-61ed-47b2-8031-fd95fe336635.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/71353664-f6cc-4cab-8a09-59f9467d7a4e.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/0aa201bc-fb60-427e-92c7-b3cba1def02a.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 67,
-      "popularity": 1342.0,
+      "popularity": 1343.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3292,7 +3292,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.652359"
+      "imported_at": "2026-11-01T17:31:43.142393"
     },
     {
       "id": 200773,
@@ -3309,7 +3309,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 64,
-      "popularity": 1283.0,
+      "popularity": 1284.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -3327,7 +3327,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.669856"
+      "imported_at": "2026-11-01T17:31:43.156314"
     },
     {
       "id": 200845,
@@ -3344,7 +3344,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 63,
-      "popularity": 1267.0,
+      "popularity": 1269.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3362,7 +3362,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.671480"
+      "imported_at": "2026-11-01T17:31:43.157604"
     },
     {
       "id": 200279,
@@ -3379,7 +3379,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 62,
-      "popularity": 1258.0,
+      "popularity": 1259.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3396,7 +3396,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.651542"
+      "imported_at": "2026-11-01T17:31:43.141734"
     },
     {
       "id": 100176,
@@ -3428,7 +3428,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.595444"
+      "imported_at": "2026-11-01T17:31:43.096807"
     },
     {
       "id": 200895,
@@ -3445,7 +3445,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 62,
-      "popularity": 1240.0,
+      "popularity": 1242.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3463,7 +3463,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673593"
+      "imported_at": "2026-11-01T17:31:43.159268"
     },
     {
       "id": 200047,
@@ -3480,7 +3480,7 @@
       "runtime": 120,
       "rating": 8.8,
       "vote_count": 61,
-      "popularity": 1229.0,
+      "popularity": 1235.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3497,7 +3497,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.640235"
+      "imported_at": "2026-11-01T17:31:43.132664"
     },
     {
       "id": 200985,
@@ -3514,7 +3514,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 55,
-      "popularity": 1117.0,
+      "popularity": 1118.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3531,7 +3531,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.678782"
+      "imported_at": "2026-11-01T17:31:43.163275"
     },
     {
       "id": 100708,
@@ -3547,8 +3547,8 @@
       "year": 1971,
       "runtime": 90,
       "rating": 7.3,
-      "vote_count": 71,
-      "popularity": 1080.0,
+      "vote_count": 72,
+      "popularity": 1083.0,
       "genres": [
         "Anime"
       ],
@@ -3563,7 +3563,41 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.612887"
+      "imported_at": "2026-11-01T17:31:43.110794"
+    },
+    {
+      "id": 201069,
+      "type": "movie",
+      "adult": false,
+      "title": "Digimon Adventure 02: The Beginning",
+      "original_title": "Digimon Adventure 02: The Beginning",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "يعود أبطال الجيل الثاني لمواجهة لغز البيضة الرقمية المرتبط بالفتى لؤي والوحش الرقمي الخاص به، والذي سيحقق أمنية له . لكن سرعان ما تتحول هذه الأمنية إلى تهديد يُعرض العالمين الرقمي والواقعي للخطر",
+      "poster": "https://cdn.spacetoongo.com/digimon%20movie/Poster%20copy%20en.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/digimon%20movie/Show%20Cover%20-%20Mobile-en.jpg",
+      "release_date": "2024-01-01",
+      "year": 2024,
+      "runtime": 90,
+      "rating": 8.8,
+      "vote_count": 51,
+      "popularity": 1039.0,
+      "genres": [
+        "Anime",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-01T17:31:43.165324"
     },
     {
       "id": 200248,
@@ -3580,7 +3614,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 51,
-      "popularity": 1037.0,
+      "popularity": 1038.0,
       "genres": [
         "Anime",
         "Mecha",
@@ -3599,41 +3633,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.649852"
-    },
-    {
-      "id": 201069,
-      "type": "movie",
-      "adult": false,
-      "title": "Digimon Adventure 02: The Beginning",
-      "original_title": "Digimon Adventure 02: The Beginning",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "يعود أبطال الجيل الثاني لمواجهة لغز البيضة الرقمية المرتبط بالفتى لؤي والوحش الرقمي الخاص به، والذي سيحقق أمنية له . لكن سرعان ما تتحول هذه الأمنية إلى تهديد يُعرض العالمين الرقمي والواقعي للخطر",
-      "poster": "https://cdn.spacetoongo.com/digimon%20movie/Poster%20copy%20en.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/digimon%20movie/Show%20Cover%20-%20Mobile-en.jpg",
-      "release_date": "2024-01-01",
-      "year": 2024,
-      "runtime": 90,
-      "rating": 8.8,
-      "vote_count": 51,
-      "popularity": 1037.0,
-      "genres": [
-        "Anime",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": false,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.681369"
+      "imported_at": "2026-11-01T17:31:43.140386"
     },
     {
       "id": 100005,
@@ -3650,7 +3650,7 @@
       "runtime": 90,
       "rating": 7.2,
       "vote_count": 46,
-      "popularity": 989.0,
+      "popularity": 990.0,
       "genres": [
         "Anime"
       ],
@@ -3665,7 +3665,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.591166"
+      "imported_at": "2026-11-01T17:31:43.093378"
     },
     {
       "id": 200307,
@@ -3699,7 +3699,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.652400"
+      "imported_at": "2026-11-01T17:31:43.142425"
     },
     {
       "id": 200309,
@@ -3733,7 +3733,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.652417"
+      "imported_at": "2026-11-01T17:31:43.142438"
     },
     {
       "id": 200621,
@@ -3743,8 +3743,8 @@
       "original_title": "مازينجر زد: إنفينيتي",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "بعد هزيمة الدكتور هيل، تقاعد البطل كوجي وأصبح عالِمًا لجعل الأرض أكثر أماناً.\n لكن (هيل)  يهاجم الأرض ثانية، فيحاول كوجي إيقافه بأية طريقة.",
-      "poster": "https://cdn.spacetoongo.com/images/66d2b-mazinger-poster.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/81534bef-479d-4c19-afea-41a9ed750198.png",
+      "poster": "https://cdn.spacetoongo.com/d652cde8-a0dd-4be3-93ee-0fe858eb5fdd.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/96f43f83-059a-4a9a-b1d4-39a3f271ea82.png",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
@@ -3769,7 +3769,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.664150"
+      "imported_at": "2026-11-01T17:31:43.151776"
     },
     {
       "id": 200272,
@@ -3804,7 +3804,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.650919"
+      "imported_at": "2026-11-01T17:31:43.141226"
     },
     {
       "id": 200907,
@@ -3839,7 +3839,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673981"
+      "imported_at": "2026-11-01T17:31:43.159569"
     },
     {
       "id": 402008569,
@@ -3856,7 +3856,7 @@
       "runtime": 89,
       "rating": 8.8,
       "vote_count": 37,
-      "popularity": 740.0,
+      "popularity": 742.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3873,7 +3873,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.687424"
+      "imported_at": "2026-11-01T17:31:43.170051"
     },
     {
       "id": 100724,
@@ -3905,7 +3905,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613197"
+      "imported_at": "2026-11-01T17:31:43.111046"
     },
     {
       "id": 200501,
@@ -3922,7 +3922,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 36,
-      "popularity": 724.0,
+      "popularity": 725.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -3940,7 +3940,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659262"
+      "imported_at": "2026-11-01T17:31:43.147879"
     },
     {
       "id": 200667,
@@ -3975,7 +3975,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.665899"
+      "imported_at": "2026-11-01T17:31:43.153166"
     },
     {
       "id": 200903,
@@ -3992,7 +3992,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 33,
-      "popularity": 663.0,
+      "popularity": 664.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4009,7 +4009,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673939"
+      "imported_at": "2026-11-01T17:31:43.159536"
     },
     {
       "id": 100277,
@@ -4041,7 +4041,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.598938"
+      "imported_at": "2026-11-01T17:31:43.099588"
     },
     {
       "id": 200270,
@@ -4058,7 +4058,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 29,
-      "popularity": 593.0,
+      "popularity": 594.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4076,7 +4076,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.650879"
+      "imported_at": "2026-11-01T17:31:43.141191"
     },
     {
       "id": 200271,
@@ -4086,14 +4086,14 @@
       "original_title": "هوت ويلز: مهارة بلا حدود",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "هوت ويلز فريق يعمل على إنقاذ مدينتهم من الشرير الذي يعبث في المدينة ويكتشفون أن صديقهم هو ذاك الشرير ويحذرهم بوجود الأخطار التي قد تصيب مدينتهم .",
-      "poster": "https://cdn.spacetoongo.com/images/100a1-the-skill-to-thrill-cover.png",
-      "backdrop": "https://cdn.spacetoongo.com/images/817b6-c46a8-hot-wheels-the-skill-to-thrill-cover.jpg",
+      "poster": "https://cdn.spacetoongo.com/a935de3e-d868-417d-a35c-22ce31b13515.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/0e6ccfdc-d8a7-4817-b40c-98910d7f7405.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 28,
-      "popularity": 573.0,
+      "popularity": 575.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4111,7 +4111,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.650899"
+      "imported_at": "2026-11-01T17:31:43.141208"
     },
     {
       "id": 100237,
@@ -4143,7 +4143,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.597842"
+      "imported_at": "2026-11-01T17:31:43.098706"
     },
     {
       "id": 200305,
@@ -4160,7 +4160,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 28,
-      "popularity": 560.0,
+      "popularity": 562.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4177,7 +4177,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.652383"
+      "imported_at": "2026-11-01T17:31:43.142411"
     },
     {
       "id": 200963,
@@ -4194,7 +4194,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 26,
-      "popularity": 521.0,
+      "popularity": 523.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4211,7 +4211,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.678196"
+      "imported_at": "2026-11-01T17:31:43.162811"
     },
     {
       "id": 200991,
@@ -4245,7 +4245,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.678974"
+      "imported_at": "2026-11-01T17:31:43.163425"
     },
     {
       "id": 100740,
@@ -4277,7 +4277,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613286"
+      "imported_at": "2026-11-01T17:31:43.111115"
     },
     {
       "id": 100790,
@@ -4309,7 +4309,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.614118"
+      "imported_at": "2026-11-01T17:31:43.111583"
     },
     {
       "id": 200883,
@@ -4326,7 +4326,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 25,
-      "popularity": 423.0,
+      "popularity": 424.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4344,7 +4344,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673106"
+      "imported_at": "2026-11-01T17:31:43.158890"
     },
     {
       "id": 200499,
@@ -4354,8 +4354,8 @@
       "original_title": "المعمار بوب",
       "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
       "overview": "يستعد المعماري بوب وآلياته الصغيرة لبناء مجمع مائي في المنطقة ويستعين بصديقه كونراد الذي يملك آليات ضخمة، لكن أمراً مفاجئاً يغير مسار العمل.",
-      "poster": "https://cdn.spacetoongo.com/images/8238c-poster.png",
-      "backdrop": "https://cdn.spacetoongo.com/images/5d73e-bob-the-builder-mega-machinesr-cover.jpg",
+      "poster": "https://cdn.spacetoongo.com/ef99daa2-d4ea-4c47-8ae4-e3543b4b54c0.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/c95868d5-61b9-466e-8237-6dea67dfab3f.jpg",
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
@@ -4378,7 +4378,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659244"
+      "imported_at": "2026-11-01T17:31:43.147864"
     },
     {
       "id": 100786,
@@ -4410,7 +4410,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.614097"
+      "imported_at": "2026-11-01T17:31:43.111568"
     },
     {
       "id": 200893,
@@ -4427,7 +4427,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 25,
-      "popularity": 403.0,
+      "popularity": 404.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4445,7 +4445,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.673572"
+      "imported_at": "2026-11-01T17:31:43.159250"
     },
     {
       "id": 100774,
@@ -4461,7 +4461,7 @@
       "year": 1940,
       "runtime": 90,
       "rating": 7.3,
-      "vote_count": 109,
+      "vote_count": 110,
       "popularity": 396.0,
       "genres": [
         "Anime"
@@ -4477,7 +4477,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613762"
+      "imported_at": "2026-11-01T17:31:43.111456"
     },
     {
       "id": 200503,
@@ -4511,7 +4511,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.659282"
+      "imported_at": "2026-11-01T17:31:43.147896"
     },
     {
       "id": 200797,
@@ -4545,7 +4545,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.670272"
+      "imported_at": "2026-11-01T17:31:43.156646"
     },
     {
       "id": 200577,
@@ -4582,7 +4582,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.662639"
+      "imported_at": "2026-11-01T17:31:43.150570"
     },
     {
       "id": 200583,
@@ -4619,7 +4619,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.662662"
+      "imported_at": "2026-11-01T17:31:43.150587"
     },
     {
       "id": 200557,
@@ -4656,7 +4656,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.661959"
+      "imported_at": "2026-11-01T17:31:43.150033"
     },
     {
       "id": 100736,
@@ -4688,8 +4688,8 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-01T03:53:00.613262"
+      "imported_at": "2026-11-01T17:31:43.111096"
     }
   ],
-  "updated_at": "2026-11-01T03:53:01.027183"
+  "updated_at": "2026-11-01T17:31:43.432036"
 }
