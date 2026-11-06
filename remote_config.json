@@ -1,0 +1,74 @@
+{
+  "app_config": {
+    "redirection": {
+      "is_app_live": true,
+      "force_redirect": false,
+      "redirect_url": "https://play.google.com/store/apps/details?id=com.xuper.animeapp",
+      "title": "تطبيق جديد متاح",
+      "message": "لقد قمنا بالانتقال إلى تطبيقنا الجديد والمحسن. يرجى تثبيته للمتابعة والاستمتاع بالمشاهدة.",
+      "button_text": "الانتقال إلى التطبيق الجديد"
+    },
+    "maintenance": {
+      "is_active": false,
+      "title": "صيانة السيرفرات",
+      "message": "نقوم حالياً بتحديث وصيانة سيرفرات الأنمي لتقديم تجربة مشاهدة أسرع وبدون تقطيع. سنعود قريباً!"
+    },
+    "force_update": {
+      "min_version_code": 1,
+      "latest_version_code": 1,
+      "is_mandatory": false,
+      "title": "تحديث جديد متوفر",
+      "message": "يتوفر إصدار جديد من أنمي سلاير مع تحسينات وسيرفرات جديدة.",
+      "update_url": "https://play.google.com/store/apps/details?id=com.xuper.animeapp",
+      "positive_button": "تحديث الآن",
+      "negative_button": "لاحقاً"
+    },
+    "play_store_protection": {
+      "is_active": false,
+      "title": "التطبيق الرسمي",
+      "message": "لأمانك ولضمان الحصول على أسرع سيرفرات المشاهدة، يرجى تثبيت النسخة الرسمية من متجر Google Play.",
+      "button_text": "تثبيت من Google Play",
+      "play_store_url": "https://play.google.com/store/apps/details?id=com.xuper.animeapp"
+    },
+    "features": {
+      "movies_enabled": true,
+      "series_enabled": true,
+      "actors_enabled": true,
+      "trending_enabled": true,
+      "trailers_enabled": true,
+      "search_enabled": true,
+      "favorites_enabled": true,
+      "history_enabled": true,
+      "watch_now_enabled": true,
+      "watch_now_title": "مشاهدة الآن",
+      "watch_now_notice": "سيرفرات فائقة السرعة بجودة FHD",
+      "watch_now_countries": [],
+      "watch_now_blocked_countries": []
+    },
+    "ads": {
+      "show_ads": false,
+      "show_banner": true,
+      "show_interstitial": true,
+      "show_native": true,
+      "show_app_open": true,
+      "interstitial_click_interval": 3,
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+      "native_id": "ca-app-pub-3940256099942544/2247696110",
+      "app_open_id": "ca-app-pub-3940256099942544/9257390308"
+    },
+    "content_urls": {
+      "config_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/remote_config.json",
+      "movies_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/movies.json",
+      "series_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/series.json",
+      "actors_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/actors.json",
+      "trending_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/trending.json"
+    },
+    "legal": {
+      "privacy_policy_url": "https://sites.google.com/view/animeslayer-privacy",
+      "terms_url": "https://sites.google.com/view/animeslayer-privacy",
+      "contact_email": "contact@animeslayer.tv",
+      "share_message": "🔥 شاهد آلاف مسلسلات وأفلام الأنمي وسبيستون غو مجاناً بجودة عالية على تطبيق Anime Slayer!"
+    }
+  }
+}
