@@ -18,7 +18,7 @@
       "latest_version_code": 1,
       "is_mandatory": false,
       "title": "تحديث جديد متوفر",
-      "message": "يتوفر إصدار جديد من أنمي سلاير مع تحسينات وسيرفرات جديدة.",
+      "message": "يتوفر إصدار جديد من أنمي أوتاكو مع تحسينات وسيرفرات جديدة.",
       "update_url": "https://play.google.com/store/apps/details?id=com.xuper.animeapp",
       "positive_button": "تحديث الآن",
       "negative_button": "لاحقاً"
@@ -65,10 +65,10 @@
       "trending_url": "https://raw.githubusercontent.com/th3fouad1/animeApp/refs/heads/main/trending.json"
     },
     "legal": {
-      "privacy_policy_url": "https://sites.google.com/view/animeslayer-privacy",
-      "terms_url": "https://sites.google.com/view/animeslayer-privacy",
-      "contact_email": "contact@animeslayer.tv",
-      "share_message": "🔥 شاهد آلاف مسلسلات وأفلام الأنمي وسبيستون غو مجاناً بجودة عالية على تطبيق Anime Slayer!"
+      "privacy_policy_url": "https://github.com/th3fouad1/animeApp/blob/main/privacy.md",
+      "terms_url": "https://github.com/th3fouad1/animeApp/blob/main/privacy.md",
+      "contact_email": "",
+      "share_message": "🔥 شاهد آلاف مسلسلات وأفلام الأنمي وسبيستون غو مجاناً بجودة عالية على تطبيق Anime Otaku!"
     }
   }
 }
