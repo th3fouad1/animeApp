@@ -14,8 +14,8 @@
       "year": 2023,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 4790,
-      "popularity": 38700.0,
+      "vote_count": 4795,
+      "popularity": 38732.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -31,7 +31,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037313"
+      "imported_at": "2026-11-18T19:52:52.937007"
     },
     {
       "id": 101116,
@@ -47,8 +47,8 @@
       "year": 2025,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 3363,
-      "popularity": 35607.0,
+      "vote_count": 3365,
+      "popularity": 35636.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -64,7 +64,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.055981"
+      "imported_at": "2026-11-18T19:52:52.951901"
     },
     {
       "id": 100704,
@@ -81,7 +81,7 @@
       "runtime": 90,
       "rating": 8.3,
       "vote_count": 1698,
-      "popularity": 26928.0,
+      "popularity": 26966.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -97,7 +97,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031039"
+      "imported_at": "2026-11-18T19:52:52.932175"
     },
     {
       "id": 100582,
@@ -113,8 +113,8 @@
       "year": 1997,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 1983,
-      "popularity": 26656.0,
+      "vote_count": 1986,
+      "popularity": 26678.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -130,7 +130,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.027599"
+      "imported_at": "2026-11-18T19:52:52.929204"
     },
     {
       "id": 100811,
@@ -146,8 +146,8 @@
       "year": 2004,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 2011,
-      "popularity": 26018.0,
+      "vote_count": 2013,
+      "popularity": 26050.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -163,7 +163,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032449"
+      "imported_at": "2026-11-18T19:52:52.933231"
     },
     {
       "id": 101007,
@@ -180,7 +180,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 2311,
-      "popularity": 25894.0,
+      "popularity": 25909.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -196,7 +196,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037271"
+      "imported_at": "2026-11-18T19:52:52.936968"
     },
     {
       "id": 100896,
@@ -212,8 +212,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.5,
-      "vote_count": 3015,
-      "popularity": 24123.0,
+      "vote_count": 3016,
+      "popularity": 24147.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -229,7 +229,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.034286"
+      "imported_at": "2026-11-18T19:52:52.934541"
     },
     {
       "id": 101011,
@@ -245,8 +245,8 @@
       "year": 2022,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 2281,
-      "popularity": 24057.0,
+      "vote_count": 2282,
+      "popularity": 24078.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -262,7 +262,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037292"
+      "imported_at": "2026-11-18T19:52:52.936987"
     },
     {
       "id": 100700,
@@ -278,8 +278,8 @@
       "year": 1998,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1508,
-      "popularity": 23799.0,
+      "vote_count": 1509,
+      "popularity": 23822.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -295,7 +295,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031012"
+      "imported_at": "2026-11-18T19:52:52.932153"
     },
     {
       "id": 100778,
@@ -311,8 +311,8 @@
       "year": 2002,
       "runtime": 90,
       "rating": 8.3,
-      "vote_count": 2099,
-      "popularity": 23588.0,
+      "vote_count": 2101,
+      "popularity": 23613.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -328,7 +328,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032026"
+      "imported_at": "2026-11-18T19:52:52.932917"
     },
     {
       "id": 101003,
@@ -345,7 +345,7 @@
       "runtime": 90,
       "rating": 8.1,
       "vote_count": 1900,
-      "popularity": 22843.0,
+      "popularity": 22858.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -361,7 +361,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037246"
+      "imported_at": "2026-11-18T19:52:52.936950"
     },
     {
       "id": 100732,
@@ -378,7 +378,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 1691,
-      "popularity": 22767.0,
+      "popularity": 22784.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -394,7 +394,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031450"
+      "imported_at": "2026-11-18T19:52:52.932484"
     },
     {
       "id": 100755,
@@ -411,7 +411,7 @@
       "runtime": 90,
       "rating": 8.4,
       "vote_count": 1792,
-      "popularity": 22034.0,
+      "popularity": 22045.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -427,7 +427,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031780"
+      "imported_at": "2026-11-18T19:52:52.932706"
     },
     {
       "id": 101069,
@@ -444,7 +444,7 @@
       "runtime": 90,
       "rating": 8.1,
       "vote_count": 1177,
-      "popularity": 21940.0,
+      "popularity": 21958.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -460,7 +460,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049039"
+      "imported_at": "2026-11-18T19:52:52.946212"
     },
     {
       "id": 101070,
@@ -476,8 +476,8 @@
       "year": 2010,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 1171,
-      "popularity": 21316.0,
+      "vote_count": 1172,
+      "popularity": 21356.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -493,7 +493,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049061"
+      "imported_at": "2026-11-18T19:52:52.946231"
     },
     {
       "id": 101074,
@@ -509,8 +509,8 @@
       "year": 2014,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 1277,
-      "popularity": 20617.0,
+      "vote_count": 1280,
+      "popularity": 20640.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -526,7 +526,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049184"
+      "imported_at": "2026-11-18T19:52:52.946302"
     },
     {
       "id": 100880,
@@ -542,8 +542,8 @@
       "year": 2006,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 2198,
-      "popularity": 20507.0,
+      "vote_count": 2199,
+      "popularity": 20521.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -559,7 +559,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.034052"
+      "imported_at": "2026-11-18T19:52:52.934368"
     },
     {
       "id": 100798,
@@ -576,7 +576,7 @@
       "runtime": 90,
       "rating": 8.3,
       "vote_count": 1816,
-      "popularity": 20219.0,
+      "popularity": 20237.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -592,7 +592,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032325"
+      "imported_at": "2026-11-18T19:52:52.933134"
     },
     {
       "id": 101096,
@@ -609,7 +609,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 1550,
-      "popularity": 19902.0,
+      "popularity": 19907.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -625,7 +625,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.053493"
+      "imported_at": "2026-11-18T19:52:52.949701"
     },
     {
       "id": 101072,
@@ -642,7 +642,7 @@
       "runtime": 90,
       "rating": 8.1,
       "vote_count": 961,
-      "popularity": 18537.0,
+      "popularity": 18572.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -658,7 +658,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049140"
+      "imported_at": "2026-11-18T19:52:52.946267"
     },
     {
       "id": 1148359749,
@@ -674,8 +674,8 @@
       "year": 2026,
       "runtime": 107,
       "rating": 8.8,
-      "vote_count": 922,
-      "popularity": 18457.0,
+      "vote_count": 926,
+      "popularity": 18532.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -693,7 +693,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109670"
+      "imported_at": "2026-11-18T19:52:52.994911"
     },
     {
       "id": 101071,
@@ -709,8 +709,8 @@
       "year": 2011,
       "runtime": 90,
       "rating": 7.9,
-      "vote_count": 1188,
-      "popularity": 17843.0,
+      "vote_count": 1195,
+      "popularity": 17883.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -726,7 +726,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049090"
+      "imported_at": "2026-11-18T19:52:52.946252"
     },
     {
       "id": 101140,
@@ -742,8 +742,8 @@
       "year": 2008,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 1226,
-      "popularity": 16324.0,
+      "vote_count": 1231,
+      "popularity": 16369.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -759,7 +759,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059524"
+      "imported_at": "2026-11-18T19:52:52.954595"
     },
     {
       "id": 100876,
@@ -776,7 +776,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 1406,
-      "popularity": 15886.0,
+      "popularity": 15901.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -792,7 +792,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.034007"
+      "imported_at": "2026-11-18T19:52:52.934328"
     },
     {
       "id": 101073,
@@ -808,8 +808,8 @@
       "year": 2013,
       "runtime": 90,
       "rating": 8.1,
-      "vote_count": 1004,
-      "popularity": 15758.0,
+      "vote_count": 1006,
+      "popularity": 15797.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -825,7 +825,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049163"
+      "imported_at": "2026-11-18T19:52:52.946285"
     },
     {
       "id": 101139,
@@ -841,8 +841,8 @@
       "year": 2007,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 1101,
-      "popularity": 15134.0,
+      "vote_count": 1104,
+      "popularity": 15176.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -858,7 +858,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059503"
+      "imported_at": "2026-11-18T19:52:52.954577"
     },
     {
       "id": 200447,
@@ -874,8 +874,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 714,
-      "popularity": 14291.0,
+      "vote_count": 715,
+      "popularity": 14313.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -893,7 +893,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.078132"
+      "imported_at": "2026-11-18T19:52:52.969370"
     },
     {
       "id": 101067,
@@ -910,7 +910,7 @@
       "runtime": 90,
       "rating": 8.0,
       "vote_count": 893,
-      "popularity": 13722.0,
+      "popularity": 13726.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -926,7 +926,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.048984"
+      "imported_at": "2026-11-18T19:52:52.946169"
     },
     {
       "id": 101068,
@@ -943,7 +943,7 @@
       "runtime": 90,
       "rating": 7.9,
       "vote_count": 776,
-      "popularity": 13677.0,
+      "popularity": 13679.0,
       "genres": [
         "Anime",
         "Mystery"
@@ -959,7 +959,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.049009"
+      "imported_at": "2026-11-18T19:52:52.946190"
     },
     {
       "id": 200397,
@@ -975,8 +975,8 @@
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
-      "vote_count": 642,
-      "popularity": 12859.0,
+      "vote_count": 643,
+      "popularity": 12875.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -994,7 +994,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.076628"
+      "imported_at": "2026-11-18T19:52:52.968159"
     },
     {
       "id": 200791,
@@ -1010,8 +1010,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 599,
-      "popularity": 11992.0,
+      "vote_count": 600,
+      "popularity": 12000.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1029,7 +1029,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091487"
+      "imported_at": "2026-11-18T19:52:52.980214"
     },
     {
       "id": 200461,
@@ -1045,8 +1045,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 535,
-      "popularity": 10718.0,
+      "vote_count": 536,
+      "popularity": 10739.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1065,7 +1065,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.078702"
+      "imported_at": "2026-11-18T19:52:52.969836"
     },
     {
       "id": 200260,
@@ -1082,7 +1082,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 500,
-      "popularity": 10003.0,
+      "popularity": 10012.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1101,7 +1101,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.070494"
+      "imported_at": "2026-11-18T19:52:52.963328"
     },
     {
       "id": 200491,
@@ -1117,8 +1117,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 496,
-      "popularity": 9920.0,
+      "vote_count": 497,
+      "popularity": 9947.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1137,7 +1137,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079787"
+      "imported_at": "2026-11-18T19:52:52.970711"
     },
     {
       "id": 100995,
@@ -1154,7 +1154,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 750,
-      "popularity": 9275.0,
+      "popularity": 9289.0,
       "genres": [
         "Anime"
       ],
@@ -1169,7 +1169,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037186"
+      "imported_at": "2026-11-18T19:52:52.936911"
     },
     {
       "id": 200439,
@@ -1185,8 +1185,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 456,
-      "popularity": 9132.0,
+      "vote_count": 457,
+      "popularity": 9147.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1205,7 +1205,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.077558"
+      "imported_at": "2026-11-18T19:52:52.968911"
     },
     {
       "id": 200497,
@@ -1221,8 +1221,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 454,
-      "popularity": 9085.0,
+      "vote_count": 455,
+      "popularity": 9102.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1241,7 +1241,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079862"
+      "imported_at": "2026-11-18T19:52:52.970775"
     },
     {
       "id": 200573,
@@ -1258,7 +1258,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 452,
-      "popularity": 9041.0,
+      "popularity": 9049.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1277,7 +1277,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.083240"
+      "imported_at": "2026-11-18T19:52:52.973714"
     },
     {
       "id": 201043,
@@ -1294,7 +1294,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 404,
-      "popularity": 8084.0,
+      "popularity": 8091.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1312,7 +1312,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.102206"
+      "imported_at": "2026-11-18T19:52:52.988746"
     },
     {
       "id": 200495,
@@ -1328,8 +1328,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 402,
-      "popularity": 8055.0,
+      "vote_count": 403,
+      "popularity": 8068.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1347,7 +1347,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079840"
+      "imported_at": "2026-11-18T19:52:52.970754"
     },
     {
       "id": 200785,
@@ -1363,8 +1363,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 397,
-      "popularity": 7958.0,
+      "vote_count": 398,
+      "popularity": 7963.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1382,7 +1382,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091466"
+      "imported_at": "2026-11-18T19:52:52.980195"
     },
     {
       "id": 100991,
@@ -1398,8 +1398,8 @@
       "year": 2004,
       "runtime": 90,
       "rating": 8.2,
-      "vote_count": 783,
-      "popularity": 7636.0,
+      "vote_count": 784,
+      "popularity": 7646.0,
       "genres": [
         "Anime"
       ],
@@ -1414,7 +1414,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037132"
+      "imported_at": "2026-11-18T19:52:52.936857"
     },
     {
       "id": 200823,
@@ -1430,8 +1430,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 373,
-      "popularity": 7477.0,
+      "vote_count": 374,
+      "popularity": 7485.0,
       "genres": [
         "Anime",
         "Mecha",
@@ -1451,7 +1451,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.092133"
+      "imported_at": "2026-11-18T19:52:52.980735"
     },
     {
       "id": 200493,
@@ -1468,7 +1468,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 349,
-      "popularity": 6987.0,
+      "popularity": 6997.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -1487,7 +1487,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079817"
+      "imported_at": "2026-11-18T19:52:52.970734"
     },
     {
       "id": 200735,
@@ -1503,8 +1503,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 336,
-      "popularity": 6738.0,
+      "vote_count": 337,
+      "popularity": 6750.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1522,7 +1522,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.089757"
+      "imported_at": "2026-11-18T19:52:52.978786"
     },
     {
       "id": 101133,
@@ -1539,7 +1539,7 @@
       "runtime": 90,
       "rating": 8.1,
       "vote_count": 359,
-      "popularity": 6686.0,
+      "popularity": 6701.0,
       "genres": [
         "Anime"
       ],
@@ -1554,7 +1554,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.058884"
+      "imported_at": "2026-11-18T19:52:52.954096"
     },
     {
       "id": 200001,
@@ -1570,8 +1570,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 322,
-      "popularity": 6456.0,
+      "vote_count": 323,
+      "popularity": 6476.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1589,7 +1589,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059652"
+      "imported_at": "2026-11-18T19:52:52.954702"
     },
     {
       "id": 200765,
@@ -1606,7 +1606,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 322,
-      "popularity": 6440.0,
+      "popularity": 6447.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1624,7 +1624,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.090783"
+      "imported_at": "2026-11-18T19:52:52.979636"
     },
     {
       "id": 201175,
@@ -1640,8 +1640,8 @@
       "year": 2025,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 320,
-      "popularity": 6418.0,
+      "vote_count": 321,
+      "popularity": 6430.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -1659,7 +1659,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.104684"
+      "imported_at": "2026-11-18T19:52:52.990675"
     },
     {
       "id": 200775,
@@ -1676,7 +1676,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 316,
-      "popularity": 6329.0,
+      "popularity": 6337.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1694,7 +1694,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091132"
+      "imported_at": "2026-11-18T19:52:52.979923"
     },
     {
       "id": 200867,
@@ -1711,7 +1711,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 316,
-      "popularity": 6321.0,
+      "popularity": 6331.0,
       "genres": [
         "Action",
         "Anime",
@@ -1731,7 +1731,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.093497"
+      "imported_at": "2026-11-18T19:52:52.981852"
     },
     {
       "id": 100999,
@@ -1747,8 +1747,8 @@
       "year": 2008,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 510,
-      "popularity": 6136.0,
+      "vote_count": 512,
+      "popularity": 6148.0,
       "genres": [
         "Anime"
       ],
@@ -1763,7 +1763,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037207"
+      "imported_at": "2026-11-18T19:52:52.936928"
     },
     {
       "id": 100987,
@@ -1779,8 +1779,8 @@
       "year": 1997,
       "runtime": 90,
       "rating": 7.7,
-      "vote_count": 429,
-      "popularity": 6042.0,
+      "vote_count": 431,
+      "popularity": 6054.0,
       "genres": [
         "Anime"
       ],
@@ -1795,7 +1795,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.037153"
+      "imported_at": "2026-11-18T19:52:52.936883"
     },
     {
       "id": 200043,
@@ -1811,8 +1811,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 297,
-      "popularity": 5948.0,
+      "vote_count": 298,
+      "popularity": 5979.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1830,7 +1830,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059744"
+      "imported_at": "2026-11-18T19:52:52.954777"
     },
     {
       "id": 100803,
@@ -1847,7 +1847,7 @@
       "runtime": 90,
       "rating": 8.4,
       "vote_count": 452,
-      "popularity": 5411.0,
+      "popularity": 5421.0,
       "genres": [
         "Anime"
       ],
@@ -1862,7 +1862,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032354"
+      "imported_at": "2026-11-18T19:52:52.933154"
     },
     {
       "id": 200395,
@@ -1878,8 +1878,8 @@
       "year": 2024,
       "runtime": 75,
       "rating": 8.8,
-      "vote_count": 257,
-      "popularity": 5154.0,
+      "vote_count": 258,
+      "popularity": 5160.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1897,7 +1897,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.076606"
+      "imported_at": "2026-11-18T19:52:52.968138"
     },
     {
       "id": 200035,
@@ -1913,8 +1913,8 @@
       "year": 2026,
       "runtime": 110,
       "rating": 8.8,
-      "vote_count": 249,
-      "popularity": 4994.0,
+      "vote_count": 250,
+      "popularity": 5018.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1932,7 +1932,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059682"
+      "imported_at": "2026-11-18T19:52:52.954726"
     },
     {
       "id": 100884,
@@ -1948,8 +1948,8 @@
       "year": 1989,
       "runtime": 90,
       "rating": 8.4,
-      "vote_count": 481,
-      "popularity": 4948.0,
+      "vote_count": 483,
+      "popularity": 4955.0,
       "genres": [
         "Anime"
       ],
@@ -1964,7 +1964,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.034029"
+      "imported_at": "2026-11-18T19:52:52.934349"
     },
     {
       "id": 200041,
@@ -1980,8 +1980,8 @@
       "year": 2026,
       "runtime": 109,
       "rating": 8.8,
-      "vote_count": 240,
-      "popularity": 4814.0,
+      "vote_count": 241,
+      "popularity": 4839.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -1999,7 +1999,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059725"
+      "imported_at": "2026-11-18T19:52:52.954762"
     },
     {
       "id": 154426995,
@@ -2015,8 +2015,8 @@
       "year": 2026,
       "runtime": 114,
       "rating": 8.8,
-      "vote_count": 240,
-      "popularity": 4801.0,
+      "vote_count": 241,
+      "popularity": 4821.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2034,7 +2034,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109587"
+      "imported_at": "2026-11-18T19:52:52.994830"
     },
     {
       "id": 969701286,
@@ -2050,8 +2050,8 @@
       "year": 2026,
       "runtime": 104,
       "rating": 8.8,
-      "vote_count": 239,
-      "popularity": 4794.0,
+      "vote_count": 240,
+      "popularity": 4808.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2069,7 +2069,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109651"
+      "imported_at": "2026-11-18T19:52:52.994893"
     },
     {
       "id": 200771,
@@ -2085,8 +2085,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 224,
-      "popularity": 4495.0,
+      "vote_count": 225,
+      "popularity": 4502.0,
       "genres": [
         "Anime",
         "Drama",
@@ -2106,7 +2106,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091073"
+      "imported_at": "2026-11-18T19:52:52.979871"
     },
     {
       "id": 200847,
@@ -2123,7 +2123,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 223,
-      "popularity": 4463.0,
+      "popularity": 4471.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2140,7 +2140,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.092835"
+      "imported_at": "2026-11-18T19:52:52.981319"
     },
     {
       "id": 100728,
@@ -2157,7 +2157,7 @@
       "runtime": 90,
       "rating": 8.1,
       "vote_count": 282,
-      "popularity": 3929.0,
+      "popularity": 3933.0,
       "genres": [
         "Anime"
       ],
@@ -2172,7 +2172,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031428"
+      "imported_at": "2026-11-18T19:52:52.932465"
     },
     {
       "id": 200236,
@@ -2189,7 +2189,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 195,
-      "popularity": 3909.0,
+      "popularity": 3912.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -2208,7 +2208,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.068140"
+      "imported_at": "2026-11-18T19:52:52.961441"
     },
     {
       "id": 101110,
@@ -2223,9 +2223,9 @@
       "release_date": "1953-01-01",
       "year": 1953,
       "runtime": 90,
-      "rating": 7.7,
-      "vote_count": 157,
-      "popularity": 3805.0,
+      "rating": 7.8,
+      "vote_count": 158,
+      "popularity": 3810.0,
       "genres": [
         "Anime"
       ],
@@ -2240,7 +2240,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.055388"
+      "imported_at": "2026-11-18T19:52:52.951415"
     },
     {
       "id": 2099113353,
@@ -2257,7 +2257,7 @@
       "runtime": 108,
       "rating": 8.8,
       "vote_count": 187,
-      "popularity": 3745.0,
+      "popularity": 3758.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2275,39 +2275,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109706"
-    },
-    {
-      "id": 100010,
-      "type": "movie",
-      "adult": false,
-      "title": "غرندايزر ضد مازنجر العملاق",
-      "original_title": "غرندايزر ضد مازنجر العملاق",
-      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
-      "overview": "بعد العديد من المحاولات لتدمير غرندايزر وغزو الأرض ، أرسل الملك فيغا الجنرال باراندوس وقواته في مهمة خاصة. قبل الهبوط ، يتوقف باراندوس في قاعدة القمر ويحذر اثنين من المسؤولين هناك أنه في حالة نجاحه سيتم طردهم وقتلهم على حد سواء. باراندوس وصل إلى الأرض و أمسك بحليف دوك فليد الأقرب كوجي كابوتو بينما كان تحت سيطرة العقل في الأسر ، يكشف كوجي تاريخ وموقع كل من مازنجر زد ومازنجر العملاق. باراندوس ينتهز الفرصة للقبض على مازنجر العملاق ، ثم يجبر دوك و غرانديزر على القتال ضد مازنجر العملاق.يشتبك غرندايزر ومازنجر العملاق في المعركة حتى تمكن غرندايزر من إلغاء تنشيط مازنجر العملاق بضرب نقطة الضعف الذي إقترحها كوجي",
-      "poster": "https://carateen.tv/assets/img/posters/12_cover.webp",
-      "backdrop": "https://carateen.tv/assets/img/posters/14_banner.webp",
-      "release_date": "1976-01-01",
-      "year": 1976,
-      "runtime": 90,
-      "rating": 7.8,
-      "vote_count": 203,
-      "popularity": 3635.0,
-      "genres": [
-        "Anime"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": true,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.008151"
+      "imported_at": "2026-11-18T19:52:52.994945"
     },
     {
       "id": 608042310,
@@ -2324,7 +2292,7 @@
       "runtime": 92,
       "rating": 8.8,
       "vote_count": 181,
-      "popularity": 3633.0,
+      "popularity": 3639.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2341,7 +2309,39 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109632"
+      "imported_at": "2026-11-18T19:52:52.994866"
+    },
+    {
+      "id": 100010,
+      "type": "movie",
+      "adult": false,
+      "title": "غرندايزر ضد مازنجر العملاق",
+      "original_title": "غرندايزر ضد مازنجر العملاق",
+      "tagline": "أنمي كلاسيكي رائع بجودة عالية",
+      "overview": "بعد العديد من المحاولات لتدمير غرندايزر وغزو الأرض ، أرسل الملك فيغا الجنرال باراندوس وقواته في مهمة خاصة. قبل الهبوط ، يتوقف باراندوس في قاعدة القمر ويحذر اثنين من المسؤولين هناك أنه في حالة نجاحه سيتم طردهم وقتلهم على حد سواء. باراندوس وصل إلى الأرض و أمسك بحليف دوك فليد الأقرب كوجي كابوتو بينما كان تحت سيطرة العقل في الأسر ، يكشف كوجي تاريخ وموقع كل من مازنجر زد ومازنجر العملاق. باراندوس ينتهز الفرصة للقبض على مازنجر العملاق ، ثم يجبر دوك و غرانديزر على القتال ضد مازنجر العملاق.يشتبك غرندايزر ومازنجر العملاق في المعركة حتى تمكن غرندايزر من إلغاء تنشيط مازنجر العملاق بضرب نقطة الضعف الذي إقترحها كوجي",
+      "poster": "https://carateen.tv/assets/img/posters/12_cover.webp",
+      "backdrop": "https://carateen.tv/assets/img/posters/14_banner.webp",
+      "release_date": "1976-01-01",
+      "year": 1976,
+      "runtime": 90,
+      "rating": 7.8,
+      "vote_count": 203,
+      "popularity": 3637.0,
+      "genres": [
+        "Anime"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": true,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-18T19:52:52.913706"
     },
     {
       "id": 200237,
@@ -2358,7 +2358,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 180,
-      "popularity": 3610.0,
+      "popularity": 3614.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -2377,7 +2377,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.068163"
+      "imported_at": "2026-11-18T19:52:52.961462"
     },
     {
       "id": 101103,
@@ -2393,8 +2393,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.0,
-      "vote_count": 269,
-      "popularity": 3347.0,
+      "vote_count": 270,
+      "popularity": 3350.0,
       "genres": [
         "Anime"
       ],
@@ -2409,7 +2409,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.054763"
+      "imported_at": "2026-11-18T19:52:52.950727"
     },
     {
       "id": 100151,
@@ -2426,7 +2426,7 @@
       "runtime": 90,
       "rating": 7.7,
       "vote_count": 222,
-      "popularity": 3229.0,
+      "popularity": 3232.0,
       "genres": [
         "Anime"
       ],
@@ -2441,7 +2441,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.011900"
+      "imported_at": "2026-11-18T19:52:52.916739"
     },
     {
       "id": 201183,
@@ -2458,7 +2458,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 160,
-      "popularity": 3201.0,
+      "popularity": 3204.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -2476,7 +2476,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.104916"
+      "imported_at": "2026-11-18T19:52:52.990864"
     },
     {
       "id": 100746,
@@ -2493,7 +2493,7 @@
       "runtime": 90,
       "rating": 7.9,
       "vote_count": 235,
-      "popularity": 3145.0,
+      "popularity": 3148.0,
       "genres": [
         "Anime"
       ],
@@ -2508,7 +2508,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031530"
+      "imported_at": "2026-11-18T19:52:52.932543"
     },
     {
       "id": 100767,
@@ -2525,7 +2525,7 @@
       "runtime": 90,
       "rating": 6.6,
       "vote_count": 207,
-      "popularity": 3062.0,
+      "popularity": 3066.0,
       "genres": [
         "Anime"
       ],
@@ -2540,7 +2540,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031980"
+      "imported_at": "2026-11-18T19:52:52.932863"
     },
     {
       "id": 200793,
@@ -2557,7 +2557,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 150,
-      "popularity": 3002.0,
+      "popularity": 3006.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2575,7 +2575,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091507"
+      "imported_at": "2026-11-18T19:52:52.980232"
     },
     {
       "id": 201017,
@@ -2592,7 +2592,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 130,
-      "popularity": 2604.0,
+      "popularity": 2607.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2610,7 +2610,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.101824"
+      "imported_at": "2026-11-18T19:52:52.988460"
     },
     {
       "id": 1582249768,
@@ -2627,7 +2627,7 @@
       "runtime": 102,
       "rating": 8.8,
       "vote_count": 130,
-      "popularity": 2600.0,
+      "popularity": 2605.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2645,7 +2645,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109688"
+      "imported_at": "2026-11-18T19:52:52.994929"
     },
     {
       "id": 200767,
@@ -2662,7 +2662,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 128,
-      "popularity": 2562.0,
+      "popularity": 2569.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2680,7 +2680,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.090805"
+      "imported_at": "2026-11-18T19:52:52.979656"
     },
     {
       "id": 200917,
@@ -2697,7 +2697,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 123,
-      "popularity": 2469.0,
+      "popularity": 2472.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2714,7 +2714,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.096367"
+      "imported_at": "2026-11-18T19:52:52.984152"
     },
     {
       "id": 200737,
@@ -2749,7 +2749,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.089783"
+      "imported_at": "2026-11-18T19:52:52.978809"
     },
     {
       "id": 200865,
@@ -2766,7 +2766,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 114,
-      "popularity": 2285.0,
+      "popularity": 2286.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2784,7 +2784,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.093476"
+      "imported_at": "2026-11-18T19:52:52.981831"
     },
     {
       "id": 200825,
@@ -2801,7 +2801,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 113,
-      "popularity": 2272.0,
+      "popularity": 2274.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2818,7 +2818,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.092161"
+      "imported_at": "2026-11-18T19:52:52.980755"
     },
     {
       "id": 200905,
@@ -2835,7 +2835,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 110,
-      "popularity": 2213.0,
+      "popularity": 2214.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2852,7 +2852,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.095405"
+      "imported_at": "2026-11-18T19:52:52.983382"
     },
     {
       "id": 200831,
@@ -2869,7 +2869,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 107,
-      "popularity": 2148.0,
+      "popularity": 2149.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2887,7 +2887,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.092381"
+      "imported_at": "2026-11-18T19:52:52.980946"
     },
     {
       "id": 200909,
@@ -2904,7 +2904,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 104,
-      "popularity": 2097.0,
+      "popularity": 2099.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2921,7 +2921,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.095447"
+      "imported_at": "2026-11-18T19:52:52.983419"
     },
     {
       "id": 200037,
@@ -2938,7 +2938,7 @@
       "runtime": 87,
       "rating": 8.8,
       "vote_count": 103,
-      "popularity": 2070.0,
+      "popularity": 2076.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -2956,7 +2956,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059704"
+      "imported_at": "2026-11-18T19:52:52.954746"
     },
     {
       "id": 200795,
@@ -2973,7 +2973,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 98,
-      "popularity": 1967.0,
+      "popularity": 1968.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -2990,7 +2990,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091526"
+      "imported_at": "2026-11-18T19:52:52.980250"
     },
     {
       "id": 200799,
@@ -3007,7 +3007,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 97,
-      "popularity": 1942.0,
+      "popularity": 1943.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3024,7 +3024,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091569"
+      "imported_at": "2026-11-18T19:52:52.980287"
     },
     {
       "id": 200301,
@@ -3041,7 +3041,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 93,
-      "popularity": 1870.0,
+      "popularity": 1871.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3058,7 +3058,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072638"
+      "imported_at": "2026-11-18T19:52:52.965028"
     },
     {
       "id": 100016,
@@ -3090,7 +3090,7 @@
       "featured": true,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.008188"
+      "imported_at": "2026-11-18T19:52:52.913737"
     },
     {
       "id": 200961,
@@ -3124,7 +3124,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.099763"
+      "imported_at": "2026-11-18T19:52:52.986775"
     },
     {
       "id": 201169,
@@ -3158,7 +3158,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.104632"
+      "imported_at": "2026-11-18T19:52:52.990632"
     },
     {
       "id": 200284,
@@ -3192,7 +3192,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072122"
+      "imported_at": "2026-11-18T19:52:52.964603"
     },
     {
       "id": 100449,
@@ -3209,7 +3209,7 @@
       "runtime": 90,
       "rating": 8.2,
       "vote_count": 65,
-      "popularity": 1453.0,
+      "popularity": 1455.0,
       "genres": [
         "Anime"
       ],
@@ -3224,7 +3224,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.019496"
+      "imported_at": "2026-11-18T19:52:52.922815"
     },
     {
       "id": 200949,
@@ -3239,6 +3239,40 @@
       "release_date": "2024-01-01",
       "year": 2024,
       "runtime": 90,
+      "rating": 8.8,
+      "vote_count": 70,
+      "popularity": 1408.0,
+      "genres": [
+        "Anime",
+        "Nostalgia",
+        "Spacetoon"
+      ],
+      "original_language": "ar",
+      "countries": [
+        "JP",
+        "AR"
+      ],
+      "studios": [],
+      "trailer_youtube_key": null,
+      "cast": [],
+      "featured": false,
+      "enabled": true,
+      "tmdb_url": null,
+      "imported_at": "2026-11-18T19:52:52.985222"
+    },
+    {
+      "id": 200047,
+      "type": "movie",
+      "adult": false,
+      "title": "Mobile Suit Gundam SEED FREEDOM",
+      "original_title": "Mobile Suit Gundam SEED FREEDOM",
+      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
+      "overview": "حرب عالمية طاحنة بين الدول الكبرى، يُستعمل فيها السلاح النووي الفتاك، ومركبات وسفن فضائية، تنتقل بين كوكب وآخر.  \nمن بين ذلك الركام وويلات الحروب والمآسي",
+      "poster": "https://cdn.spacetoongo.com/d404884e-5070-48fe-a842-e7d920adbed1.jpg",
+      "backdrop": "https://cdn.spacetoongo.com/a4fa4088-7c3b-414e-88c2-d06faae4b28b.jpg",
+      "release_date": "2026-01-01",
+      "year": 2026,
+      "runtime": 120,
       "rating": 8.8,
       "vote_count": 70,
       "popularity": 1406.0,
@@ -3258,41 +3292,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.097718"
-    },
-    {
-      "id": 200047,
-      "type": "movie",
-      "adult": false,
-      "title": "Mobile Suit Gundam SEED FREEDOM",
-      "original_title": "Mobile Suit Gundam SEED FREEDOM",
-      "tagline": "من أعمال سبيستون غو المميزة - كوكب أفلام",
-      "overview": "حرب عالمية طاحنة بين الدول الكبرى، يُستعمل فيها السلاح النووي الفتاك، ومركبات وسفن فضائية، تنتقل بين كوكب وآخر.  \nمن بين ذلك الركام وويلات الحروب والمآسي",
-      "poster": "https://cdn.spacetoongo.com/d404884e-5070-48fe-a842-e7d920adbed1.jpg",
-      "backdrop": "https://cdn.spacetoongo.com/a4fa4088-7c3b-414e-88c2-d06faae4b28b.jpg",
-      "release_date": "2026-01-01",
-      "year": 2026,
-      "runtime": 120,
-      "rating": 8.8,
-      "vote_count": 69,
-      "popularity": 1399.0,
-      "genres": [
-        "Anime",
-        "Nostalgia",
-        "Spacetoon"
-      ],
-      "original_language": "ar",
-      "countries": [
-        "JP",
-        "AR"
-      ],
-      "studios": [],
-      "trailer_youtube_key": null,
-      "cast": [],
-      "featured": false,
-      "enabled": true,
-      "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.059766"
+      "imported_at": "2026-11-18T19:52:52.954796"
     },
     {
       "id": 200303,
@@ -3326,7 +3326,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072659"
+      "imported_at": "2026-11-18T19:52:52.965047"
     },
     {
       "id": 200773,
@@ -3343,7 +3343,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 66,
-      "popularity": 1329.0,
+      "popularity": 1330.0,
       "genres": [
         "Anime",
         "Mystery",
@@ -3361,7 +3361,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091110"
+      "imported_at": "2026-11-18T19:52:52.979903"
     },
     {
       "id": 200845,
@@ -3378,7 +3378,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 65,
-      "popularity": 1317.0,
+      "popularity": 1318.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3396,7 +3396,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.092801"
+      "imported_at": "2026-11-18T19:52:52.981303"
     },
     {
       "id": 200279,
@@ -3413,7 +3413,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 65,
-      "popularity": 1305.0,
+      "popularity": 1307.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3430,7 +3430,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.071793"
+      "imported_at": "2026-11-18T19:52:52.964358"
     },
     {
       "id": 200895,
@@ -3447,7 +3447,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 64,
-      "popularity": 1281.0,
+      "popularity": 1282.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3465,7 +3465,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.095006"
+      "imported_at": "2026-11-18T19:52:52.983084"
     },
     {
       "id": 100176,
@@ -3482,7 +3482,7 @@
       "runtime": 90,
       "rating": 7.5,
       "vote_count": 62,
-      "popularity": 1272.0,
+      "popularity": 1275.0,
       "genres": [
         "Anime"
       ],
@@ -3497,7 +3497,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.012572"
+      "imported_at": "2026-11-18T19:52:52.917263"
     },
     {
       "id": 200985,
@@ -3514,7 +3514,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 57,
-      "popularity": 1145.0,
+      "popularity": 1146.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3531,7 +3531,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.100409"
+      "imported_at": "2026-11-18T19:52:52.987303"
     },
     {
       "id": 100708,
@@ -3563,7 +3563,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031061"
+      "imported_at": "2026-11-18T19:52:52.932194"
     },
     {
       "id": 200248,
@@ -3599,7 +3599,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.069963"
+      "imported_at": "2026-11-18T19:52:52.962912"
     },
     {
       "id": 201069,
@@ -3615,8 +3615,8 @@
       "year": 2024,
       "runtime": 90,
       "rating": 8.8,
-      "vote_count": 52,
-      "popularity": 1059.0,
+      "vote_count": 53,
+      "popularity": 1060.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3633,7 +3633,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.103143"
+      "imported_at": "2026-11-18T19:52:52.989517"
     },
     {
       "id": 100005,
@@ -3650,7 +3650,7 @@
       "runtime": 90,
       "rating": 7.2,
       "vote_count": 46,
-      "popularity": 1011.0,
+      "popularity": 1012.0,
       "genres": [
         "Anime"
       ],
@@ -3665,7 +3665,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.008076"
+      "imported_at": "2026-11-18T19:52:52.913664"
     },
     {
       "id": 200307,
@@ -3699,7 +3699,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072701"
+      "imported_at": "2026-11-18T19:52:52.965084"
     },
     {
       "id": 200309,
@@ -3733,7 +3733,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072719"
+      "imported_at": "2026-11-18T19:52:52.965104"
     },
     {
       "id": 200621,
@@ -3769,7 +3769,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.085081"
+      "imported_at": "2026-11-18T19:52:52.975049"
     },
     {
       "id": 402008569,
@@ -3786,7 +3786,7 @@
       "runtime": 89,
       "rating": 8.8,
       "vote_count": 40,
-      "popularity": 805.0,
+      "popularity": 810.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3803,7 +3803,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.109612"
+      "imported_at": "2026-11-18T19:52:52.994850"
     },
     {
       "id": 200272,
@@ -3820,7 +3820,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 39,
-      "popularity": 794.0,
+      "popularity": 796.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -3838,7 +3838,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.071125"
+      "imported_at": "2026-11-18T19:52:52.963808"
     },
     {
       "id": 200907,
@@ -3855,7 +3855,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 38,
-      "popularity": 775.0,
+      "popularity": 776.0,
       "genres": [
         "Anime",
         "Kids",
@@ -3873,7 +3873,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.095425"
+      "imported_at": "2026-11-18T19:52:52.983400"
     },
     {
       "id": 200501,
@@ -3890,7 +3890,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 37,
-      "popularity": 750.0,
+      "popularity": 751.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -3908,7 +3908,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079901"
+      "imported_at": "2026-11-18T19:52:52.970810"
     },
     {
       "id": 100724,
@@ -3940,7 +3940,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031406"
+      "imported_at": "2026-11-18T19:52:52.932446"
     },
     {
       "id": 200667,
@@ -3975,7 +3975,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.086923"
+      "imported_at": "2026-11-18T19:52:52.976519"
     },
     {
       "id": 200903,
@@ -4009,7 +4009,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.095384"
+      "imported_at": "2026-11-18T19:52:52.983365"
     },
     {
       "id": 100277,
@@ -4041,7 +4041,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.016227"
+      "imported_at": "2026-11-18T19:52:52.920297"
     },
     {
       "id": 200270,
@@ -4076,7 +4076,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.071067"
+      "imported_at": "2026-11-18T19:52:52.963768"
     },
     {
       "id": 200305,
@@ -4093,7 +4093,7 @@
       "runtime": 75,
       "rating": 8.8,
       "vote_count": 29,
-      "popularity": 598.0,
+      "popularity": 599.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4110,7 +4110,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.072683"
+      "imported_at": "2026-11-18T19:52:52.965068"
     },
     {
       "id": 200271,
@@ -4145,7 +4145,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.071089"
+      "imported_at": "2026-11-18T19:52:52.963787"
     },
     {
       "id": 100237,
@@ -4162,7 +4162,7 @@
       "runtime": 90,
       "rating": 7.6,
       "vote_count": 21,
-      "popularity": 572.0,
+      "popularity": 573.0,
       "genres": [
         "Anime"
       ],
@@ -4177,7 +4177,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.015061"
+      "imported_at": "2026-11-18T19:52:52.919339"
     },
     {
       "id": 200963,
@@ -4194,7 +4194,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 26,
-      "popularity": 538.0,
+      "popularity": 539.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4211,7 +4211,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.099784"
+      "imported_at": "2026-11-18T19:52:52.986794"
     },
     {
       "id": 200991,
@@ -4245,7 +4245,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.100610"
+      "imported_at": "2026-11-18T19:52:52.987470"
     },
     {
       "id": 100740,
@@ -4277,7 +4277,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031501"
+      "imported_at": "2026-11-18T19:52:52.932525"
     },
     {
       "id": 100790,
@@ -4309,7 +4309,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032199"
+      "imported_at": "2026-11-18T19:52:52.933035"
     },
     {
       "id": 200883,
@@ -4326,7 +4326,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 25,
-      "popularity": 442.0,
+      "popularity": 443.0,
       "genres": [
         "Anime",
         "Nostalgia",
@@ -4344,7 +4344,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.094527"
+      "imported_at": "2026-11-18T19:52:52.982667"
     },
     {
       "id": 200499,
@@ -4378,7 +4378,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079882"
+      "imported_at": "2026-11-18T19:52:52.970793"
     },
     {
       "id": 200893,
@@ -4413,7 +4413,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.094985"
+      "imported_at": "2026-11-18T19:52:52.983065"
     },
     {
       "id": 200503,
@@ -4447,7 +4447,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.079920"
+      "imported_at": "2026-11-18T19:52:52.970827"
     },
     {
       "id": 100786,
@@ -4479,7 +4479,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032177"
+      "imported_at": "2026-11-18T19:52:52.933017"
     },
     {
       "id": 200797,
@@ -4513,7 +4513,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.091546"
+      "imported_at": "2026-11-18T19:52:52.980270"
     },
     {
       "id": 100774,
@@ -4545,7 +4545,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.032003"
+      "imported_at": "2026-11-18T19:52:52.932894"
     },
     {
       "id": 200577,
@@ -4582,7 +4582,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.083262"
+      "imported_at": "2026-11-18T19:52:52.973734"
     },
     {
       "id": 200583,
@@ -4599,7 +4599,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 25,
-      "popularity": 310.0,
+      "popularity": 311.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -4619,7 +4619,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.083288"
+      "imported_at": "2026-11-18T19:52:52.973755"
     },
     {
       "id": 200557,
@@ -4636,7 +4636,7 @@
       "runtime": 90,
       "rating": 8.8,
       "vote_count": 25,
-      "popularity": 298.0,
+      "popularity": 300.0,
       "genres": [
         "Adventure",
         "Anime",
@@ -4656,7 +4656,7 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.082719"
+      "imported_at": "2026-11-18T19:52:52.973308"
     },
     {
       "id": 100736,
@@ -4688,8 +4688,8 @@
       "featured": false,
       "enabled": true,
       "tmdb_url": null,
-      "imported_at": "2026-11-18T05:36:56.031475"
+      "imported_at": "2026-11-18T19:52:52.932505"
     }
   ],
-  "updated_at": "2026-11-18T05:36:56.450454"
+  "updated_at": "2026-11-18T19:52:53.293680"
 }
